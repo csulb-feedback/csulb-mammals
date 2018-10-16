@@ -1,0 +1,256 @@
+Report for Institution Code CSULB, Resource csulb_mammals
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 189
+Number of records retrieved in searches: 604
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 81
+	Country: Netherlands ; Times: 2
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 25
+	Country: Denmark ; Times: 75
+	Country: United Kingdom ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 3
+	Date: 2018-01-18 ; Times: 1
+	Date: 2018-01-31 ; Times: 11
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-11 ; Times: 2
+	Date: 2018-01-10 ; Times: 3
+	Date: 2018-01-13 ; Times: 4
+	Date: 2018-01-12 ; Times: 6
+	Date: 2018-01-15 ; Times: 33
+	Date: 2018-01-14 ; Times: 21
+	Date: 2018-01-17 ; Times: 11
+	Date: 2018-01-16 ; Times: 31
+	Date: 2018-01-24 ; Times: 1
+	Date: 2018-01-25 ; Times: 3
+	Date: 2018-01-08 ; Times: 3
+	Date: 2018-01-09 ; Times: 2
+	Date: 2018-01-28 ; Times: 2
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-02 ; Times: 5
+	Date: 2018-01-03 ; Times: 1
+	Date: 2018-01-26 ; Times: 2
+	Date: 2018-01-27 ; Times: 2
+	Date: 2018-01-21 ; Times: 4
+	Date: 2018-01-22 ; Times: 7
+	Date: 2018-01-05 ; Times: 5
+	Date: 2018-01-04 ; Times: 1
+	Date: 2018-01-23 ; Times: 23
+
+List of queries that retrieved data from the resource: 
+	Query: "Cervus elaphus nannodes" ; Times: 4
+	Query: "Natalus mexicanus" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 6
+	Query: "Equus przewalskii" ; Times: 2
+	Query: "&#34;Chrysocyon brachyurus&#34; mappable:1" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 5
+	Query: "Dolichotis patagonum" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 12
+	Query: "specificepithet:latrans genus:Canis county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lasiurus intermedius" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 4
+	Query: "specificepithet:longimembris genus:Perognathus stateprovince:&#34;utah&#34;" ; Times: 2
+	Query: "genus:Macaca order:Primates institutioncode:CSULB" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "Equus asinus asinus" ; Times: 1
+	Query: "Bison bonasus bonasus" ; Times: 3
+	Query: "specificepithet:Nitratoides genus:Dipodomys year &gt;= 1940 year &lt;= 1960" ; Times: 1
+	Query: "Onychomys torridus ramona" ; Times: 1
+	Query: "Loxodonta africana africana" ; Times: 4
+	Query: "catalognumber:1290" ; Times: 2
+	Query: "Panthera pardus pardus" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "genus:canis county:&#34;orange&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Equus caballus przewalskii" ; Times: 2
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "Peromyscus yucatanicus" ; Times: 1
+	Query: "genus:cryptotis stateprovince:&#34;ohio&#34;" ; Times: 2
+	Query: "specificepithet:latrans genus:Canis county:&#34;los angeles&#34;" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "Equus asinus" ; Times: 1
+	Query: "Chinchilla lanigera" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis county:&#34;kern&#34;" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 1
+	Query: "Panthera leo" ; Times: 3
+	Query: "Macaca silenus" ; Times: 5
+	Query: "(Tremarctos ornatus)" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Cervus elaphus elaphus" ; Times: 4
+	Query: "distance(location,geopoint(36.784259511,-98.215133042))&lt;13670" ; Times: 3
+	Query: "specificepithet:rosalia genus:Leontopithecus" ; Times: 1
+	Query: "Samuel P. Taylor" ; Times: 1
+	Query: "Ammospermophilus nelsoni" ; Times: 6
+	Query: "distance(location,geopoint(34.754019041,-98.659389363))&lt;15869" ; Times: 3
+	Query: "Ovibos moschatus" ; Times: 3
+	Query: "class:mammalia institutioncode:CSULB" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "Sturnira parvidens" ; Times: 1
+	Query: "mammalia recordedby:&#34;bloom, D&#34;" ; Times: 1
+	Query: "genus:Urocyon county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Galictis vittata" ; Times: 1
+	Query: "Panthera tigris tigris" ; Times: 4
+	Query: "Panthera tigris altaica" ; Times: 3
+	Query: "Tremarctos ornatus" ; Times: 9
+	Query: "Equus caballus" ; Times: 3
+	Query: "Vampyrum spectrum" ; Times: 1
+	Query: "Panthera leo leo" ; Times: 3
+	Query: "Potos flavus" ; Times: 1
+	Query: "catalognumber:4458" ; Times: 2
+	Query: "Equus caballus caballus" ; Times: 2
+	Query: "genus:Ondatra stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Ovibos moschatus moschatus" ; Times: 3
+	Query: "vntype:specimen order:Rodentia recordedby:Reed" ; Times: 1
+	Query: "Conepatus leuconotus" ; Times: 1
+	Query: "genus:Lynx county:&#34;orange&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Strandtmann" ; Times: 1
+	Query: "Robert Packard" ; Times: 1
+	Query: "Rhogeessa parvula" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "Cuniculus paca" ; Times: 1
+	Query: "specificepithet:longicaudus genus:microtus county:&#34;graham&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 4
+	Query: "neofelis" ; Times: 1
+	Query: "mammalia recordedby:bloom" ; Times: 1
+	Query: "Choeronycteris mexicana" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis county:&#34;kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:10738" ; Times: 3
+	Query: "bison skin" ; Times: 3
+	Query: "Thyroptera tricolor" ; Times: 1
+	Query: "specificepithet:mohavensis" ; Times: 1
+	Query: "Glossophaga leachii" ; Times: 1
+	Query: "Bison bonasus" ; Times: 3
+	Query: "Panthera pardus" ; Times: 2
+	Query: "Panthera tigris" ; Times: 3
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 3
+	Query: "genus:Lynx county:&#34;kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "Rhogeessa tumida" ; Times: 1
+	Query: "specificepithet:eremicus genus:Peromyscus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "genus:erethizon stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis stateprovince:&#34;California&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 102 (out of 1398 download events in this period)
+Total number of records downloaded: 1951
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Italy ; Times: 15
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 3
+	Country: United States ; Times: 79
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 4
+	Date: 2018-01-18 ; Times: 2
+	Date: 2018-01-31 ; Times: 7
+	Date: 2018-01-09 ; Times: 1
+	Date: 2018-01-29 ; Times: 3
+	Date: 2018-01-02 ; Times: 15
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-26 ; Times: 3
+	Date: 2018-01-06 ; Times: 8
+	Date: 2018-01-22 ; Times: 6
+	Date: 2018-01-16 ; Times: 2
+	Date: 2018-01-24 ; Times: 8
+	Date: 2018-01-17 ; Times: 2
+	Date: 2018-01-30 ; Times: 7
+	Date: 2018-01-04 ; Times: 2
+	Date: 2018-01-25 ; Times: 9
+	Date: 2018-01-23 ; Times: 19
+	Date: 2018-01-11 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Dolichotis patagonum" ; Times: 1
+	Query: "Myotis evotis mappable:1" ; Times: 1
+	Query: "ammotragus lervia" ; Times: 1
+	Query: "specificepithet:speciosus genus:Tamias" ; Times: 1
+	Query: "notiosorex" ; Times: 1
+	Query: "genus:Urocyon stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:alpinus genus:Tamias" ; Times: 1
+	Query: "Lasiurus cinereus mappable:1" ; Times: 1
+	Query: "(Tremarctos ornatus)" ; Times: 1
+	Query: "Microdipodops megacephalus" ; Times: 1
+	Query: "&#34;pipistrellus pipistrellus&#34;" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "Myotis volans mappable:1" ; Times: 1
+	Query: "Lasiurus borealis mappable:1" ; Times: 1
+	Query: "Rattus rattus" ; Times: 2
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "sorex arcticus vntype:specimen country:&#34;Canada&#34;" ; Times: 1
+	Query: "Myotis thysanodes mappable:1" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "Myotis lucifugus mappable:1" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Dama dama" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "specificepithet:canipes genus:Tamias" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 2
+	Query: "Vulpes vulpes fulvus" ; Times: 2
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 3
+	Query: "Hylobates lar" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "Dipodomys" ; Times: 1
+	Query: "genus:Napaeozapus" ; Times: 1
+	Query: "Sciurus niger rufiventer" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 5
+	Query: "family:Cricetidae order:Rodentia county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Neovison vison" ; Times: 1
+	Query: "genus:Odocoileus country:&#34;United States&#34;" ; Times: 1
+	Query: "Dipodomys spectabilis" ; Times: 1
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;california&#34; (Sorex) mappable:1" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "Dipodomys nitratoides" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "order:Afrosoricida" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "nyctalus noctula" ; Times: 1
+	Query: "specificepithet:amplus genus:Perognathus stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "Dermoptera" ; Times: 2
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "Chinchilla lanigera" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 2
+	Query: "Lepus alleni" ; Times: 1
+	Query: "dermoptera" ; Times: 13
+	Query: "genetta genetta" ; Times: 1
+	Query: "genus:Dipodomys county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis mappable:1" ; Times: 1
+	Query: "family:Sciuridae stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "order:Didelphimorphia" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Myotis yumanensis mappable:1" ; Times: 1
+	Query: "genus:Odocoileus virginianus" ; Times: 1
+	Query: "Myotis californicus mappable:1" ; Times: 1
+	Query: "Microdipodops pallidus" ; Times: 1
+	Query: "order:Chiroptera country:&#34;United States&#34;" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 1
+	Query: "dipodomys deserti" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+	Query: "genus:Zapus" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+
+
+End of report.
