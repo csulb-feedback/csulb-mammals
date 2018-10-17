@@ -1,0 +1,147 @@
+Report for Institution Code CSULB, Resource csulb_mammals
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 59
+Number of records retrieved in searches: 395
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 43
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-08 ; Times: 3
+	Date: 2018-06-16 ; Times: 2
+	Date: 2018-06-21 ; Times: 2
+	Date: 2018-06-22 ; Times: 1
+	Date: 2018-06-13 ; Times: 7
+	Date: 2018-06-07 ; Times: 1
+	Date: 2018-06-06 ; Times: 1
+	Date: 2018-06-12 ; Times: 2
+	Date: 2018-06-04 ; Times: 2
+	Date: 2018-06-29 ; Times: 2
+	Date: 2018-06-28 ; Times: 2
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-19 ; Times: 2
+	Date: 2018-06-25 ; Times: 3
+	Date: 2018-06-14 ; Times: 3
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-26 ; Times: 9
+	Date: 2018-06-18 ; Times: 4
+	Date: 2018-06-20 ; Times: 3
+	Date: 2018-06-23 ; Times: 4
+	Date: 2018-06-15 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Sylvilagus cunicularis" ; Times: 1
+	Query: "specificepithet:microps genus:Dipodomys county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "lagothrix poeppigii" ; Times: 1
+	Query: "specificepithet:merriami genus:dipodomys catalognumber:6569" ; Times: 1
+	Query: "recordedby:*mankins* year &gt;= 1965 year &lt;= 1965" ; Times: 1
+	Query: "vntype:specimen specificepithet:tatarica genus:Saiga" ; Times: 1
+	Query: "bolsa chica class:mammalia" ; Times: 1
+	Query: "country:Ecuador scientificname:Stenella longirostris " ; Times: 1
+	Query: "vntype:specimen specificepithet:subgutturosa genus:Gazella" ; Times: 1
+	Query: "recordedby:mankins year &gt;= 1965 year &lt;= 1965" ; Times: 1
+	Query: "Kingston Mountain" ; Times: 1
+	Query: "&#34;Mission Creek&#34; county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:microps genus:Dipodomys county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "bolsa chica order:rodentia" ; Times: 1
+	Query: "&#34;san felipe&#34; specificepithet:merriami genus:dipodomys county:&#34;san diego&#34;" ; Times: 1
+	Query: "San Diego Zoo Mammalia" ; Times: 3
+	Query: "Galictis vittata" ; Times: 1
+	Query: "country:&#34;honduras&#34; year &gt;= 1965 year &lt;= 1965" ; Times: 2
+	Query: "Ateles belzebuth" ; Times: 1
+	Query: "catalognumber:5788" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 4
+	Query: "tlacuatzin canescens" ; Times: 1
+	Query: "order:rodentia county:&#34;los angeles&#34; year &gt;= 2008" ; Times: 1
+	Query: "genus:callospermophilus county:&#34;san bernardino&#34;" ; Times: 1
+	Query: "country:&#34;Honduras&#34; recordedby:Mankins" ; Times: 4
+	Query: "specificepithet:merriami parvus genus:dipodomys institutioncode:CSULB" ; Times: 1
+	Query: "llano specificepithet:merriami genus:dipodomys" ; Times: 1
+	Query: "neotoma magister" ; Times: 1
+	Query: "Kingston Mountain San Bernardino County" ; Times: 1
+	Query: "Varecia" ; Times: 2
+	Query: "ateles belzebuth" ; Times: 2
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "country:&#34;honduras&#34; recordedby:mankins year &gt;= 1965 year &lt;= 1965" ; Times: 2
+	Query: "tremarctos ornatus" ; Times: 4
+	Query: "specificepithet:borealis genus:lasiurus stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "specificepithet:microps genus:Dipodomys county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Ohio Adams County Neotoma" ; Times: 2
+	Query: "genus:neofelis" ; Times: 3
+	Query: "didelphis stanislaus county california" ; Times: 1
+	Query: "specificepithet:merriami genus:dipodomys institutioncode:CSULB" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 1169 download events in this period)
+Total number of records downloaded: 243
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Brazil ; Times: 1
+	Country: Ecuador ; Times: 2
+	Country: Mexico ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 1
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-06 ; Times: 2
+	Date: 2018-06-05 ; Times: 4
+	Date: 2018-06-04 ; Times: 2
+	Date: 2018-06-29 ; Times: 2
+	Date: 2018-06-28 ; Times: 1
+	Date: 2018-06-01 ; Times: 4
+	Date: 2018-06-19 ; Times: 4
+	Date: 2018-06-18 ; Times: 3
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-13 ; Times: 3
+	Date: 2018-06-20 ; Times: 2
+	Date: 2018-06-09 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Ursus arctos horribilis" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "vntype:specimen specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "genus:blarina stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Lynx" ; Times: 1
+	Query: "Pongo pygmaeus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 2
+	Query: "&#34;*Urocitellus columbianus&#34;" ; Times: 1
+	Query: "Cebus albifrons" ; Times: 2
+	Query: "ursus maritimus" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "tlacuatzin canescens" ; Times: 1
+	Query: "puma concolor mexico" ; Times: 1
+	Query: "Myotis vivesi" ; Times: 1
+	Query: "Sciurus colliaei" ; Times: 1
+	Query: "vntype:specimen specificepithet:concolor genus:puma" ; Times: 1
+	Query: "Peromyscus spicilegus" ; Times: 1
+	Query: "Lynx rufus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "order:CHIROPTERA stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "Giraffa camelopardalis camelopardalis" ; Times: 1
+	Query: "dasypus novemcinctus mexico" ; Times: 1
+	Query: "antilocapra" ; Times: 1
+	Query: "Nyctinomops" ; Times: 1
+	Query: "Myotis peninsularis" ; Times: 1
+	Query: "Rhogeessa parvula" ; Times: 3
+	Query: "Microtus" ; Times: 1
+
+
+End of report.
