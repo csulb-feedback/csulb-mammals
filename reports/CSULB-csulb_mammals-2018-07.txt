@@ -1,0 +1,179 @@
+Report for Institution Code CSULB, Resource csulb_mammals
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 113
+Number of records retrieved in searches: 614
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 4
+	Country: Czechia ; Times: 1
+	Country: United States ; Times: 96
+	Country: China ; Times: 3
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-01 ; Times: 2
+	Date: 2018-07-02 ; Times: 6
+	Date: 2018-07-03 ; Times: 14
+	Date: 2018-07-28 ; Times: 1
+	Date: 2018-07-08 ; Times: 7
+	Date: 2018-07-09 ; Times: 8
+	Date: 2018-07-04 ; Times: 9
+	Date: 2018-07-05 ; Times: 9
+	Date: 2018-07-06 ; Times: 2
+	Date: 2018-07-21 ; Times: 7
+	Date: 2018-07-26 ; Times: 1
+	Date: 2018-07-27 ; Times: 12
+	Date: 2018-07-24 ; Times: 2
+	Date: 2018-07-25 ; Times: 1
+	Date: 2018-07-13 ; Times: 2
+	Date: 2018-07-11 ; Times: 6
+	Date: 2018-07-10 ; Times: 1
+	Date: 2018-07-17 ; Times: 3
+	Date: 2018-07-16 ; Times: 4
+	Date: 2018-07-15 ; Times: 3
+	Date: 2018-07-14 ; Times: 1
+	Date: 2018-07-31 ; Times: 2
+	Date: 2018-07-19 ; Times: 1
+	Date: 2018-07-18 ; Times: 3
+	Date: 2018-07-22 ; Times: 2
+	Date: 2018-07-23 ; Times: 2
+	Date: 2018-07-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1950 year &lt;= 1959 institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1950 year &lt;= 1959" ; Times: 2
+	Query: "nelsoni kern" ; Times: 4
+	Query: "zoo vntype:specimen specificepithet:brachyurus genus:Chrysocyon family:Canidae (skull OR skeleton)" ; Times: 1
+	Query: "vntype:specimen specificepithet:latrans genus:Canis county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; (skull OR skeleton)" ; Times: 1
+	Query: "specificepithet:breweri genus:Parascalops country:&#34;United States&#34;" ; Times: 2
+	Query: "nelsoni Kern" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "vntype:specimen specificepithet:brachyurus genus:Chrysocyon family:Canidae (skull OR skeleton)" ; Times: 2
+	Query: "vntype:specimen specificepithet:alpinus genus:Cuon family:Canidae (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1960 year &lt;= 1969 institutioncode:CSULB" ; Times: 1
+	Query: "country:Ecuador scientificname:Stenella longirostris " ; Times: 1
+	Query: "genus:Neotoma county:&#34;Los Angeles&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:Otospermophilus county:&#34;Los Angeles&#34; institutioncode:CSULB" ; Times: 1
+	Query: "&#34;lost horse&#34;" ; Times: 2
+	Query: "microtus californicus stateprovince:&#34;Baja California&#34; country:&#34;mexico&#34;" ; Times: 2
+	Query: "specificepithet:Boylii county:&#34;San Luis Obispo&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) year &gt;= 1940 year &lt;= 1949 institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:wiedii genus:Leopardus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Dipodomys merriami parvus" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "vntype:specimen specificepithet:lupus genus:Canis family:Canidae (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1940 year &lt;= 1949" ; Times: 2
+	Query: "genus:Myrmecophaga preparations:skeleton" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1970 year &lt;= 1979 institutioncode:CSULB" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis (skull OR skeleton) AND (NOT fossil) institutioncode:CSULB" ; Times: 1
+	Query: "Tamias bulleri" ; Times: 1
+	Query: "San Diego Zoo Mammalia" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1950 year &lt;= 1959 institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon county:&#34;Santa Barbara&#34;" ; Times: 1
+	Query: "Microtus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:lagopus genus:Vulpes family:Canidae (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:alpinus genus:Cuon (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 2010 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1970 year &lt;= 1979 institutioncode:CSULB" ; Times: 1
+	Query: "genus:Neotoma institutioncode:CSULB" ; Times: 1
+	Query: "&#34;queen valley&#34;" ; Times: 1
+	Query: "Microtus Californicus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:littoralis genus:Urocyon (skull OR skeleton)" ; Times: 1
+	Query: "Canis latrans institutioncode:CSULB" ; Times: 1
+	Query: "family:felidae order:carnivora stateprovince:&#34;oaxaca&#34;" ; Times: 2
+	Query: "neotoma magister ohio" ; Times: 1
+	Query: "specificepithet:littoralis genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "specificepithet:littoralis genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "specificepithet:zerda genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 2010 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes institutioncode:CSULB" ; Times: 1
+	Query: "genus:Corynorhinus county:&#34;Luna&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:spinatus family:Heteromyidae county:&#34;San Bernardino&#34;" ; Times: 2
+	Query: "neotoma magister" ; Times: 11
+	Query: "vntype:specimen specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) year &gt;= 1960 year &lt;= 1969 institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:aureus genus:Canis (skull OR skeleton) AND (NOT fossil) institutioncode:CSULB" ; Times: 1
+	Query: "vntype:specimen specificepithet:venaticus genus:Speothos (skull OR skeleton) institutioncode:CSULB" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 4
+	Query: "specificepithet:borealis genus:Lasiurus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "genus:rattus locality:anacapa island stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "zoo vntype:specimen specificepithet:venaticus genus:Speothos (skull OR skeleton)" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) year &gt;= 1950 year &lt;= 1959 institutioncode:CSULB" ; Times: 1
+	Query: "vntype:specimen specificepithet:lotor genus:procyon county:&#34;Santa Barbara&#34;" ; Times: 2
+	Query: "specificepithet:venaticus genus:Speothos (captive OR zoo)" ; Times: 1
+	Query: "Microtus californicus stephensi" ; Times: 1
+	Query: "stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34; (Microtus)" ; Times: 4
+	Query: "vntype:specimen specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) year &gt;= 1970 year &lt;= 1979 institutioncode:CSULB" ; Times: 1
+	Query: "addax" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1960 year &lt;= 1969" ; Times: 2
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "specificepithet:merriami parvus county:&#34;riverside&#34;" ; Times: 1
+	Query: "specificepithet:brachyurus genus:Chrysocyon (captive OR zoo)" ; Times: 1
+	Query: "Moschus moschiferus" ; Times: 1
+	Query: "vntype:specimen specificepithet:lagopus genus:Vulpes family:Canidae (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1920 year &lt;= 2018 institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1940 year &lt;= 1949 institutioncode:CSULB" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) year &gt;= 1980 year &lt;= 2018 institutioncode:CSULB" ; Times: 1
+	Query: "genus:Parascalops country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Taxidea stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Globicephala macrorhynchus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 977 download events in this period)
+Total number of records downloaded: 610
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Brazil ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 1
+	Date: 2018-07-10 ; Times: 2
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-16 ; Times: 3
+	Date: 2018-07-22 ; Times: 1
+	Date: 2018-07-30 ; Times: 2
+	Date: 2018-07-06 ; Times: 1
+	Date: 2018-07-18 ; Times: 2
+	Date: 2018-07-26 ; Times: 1
+	Date: 2018-07-01 ; Times: 1
+	Date: 2018-07-02 ; Times: 2
+	Date: 2018-07-27 ; Times: 1
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-07 ; Times: 1
+	Date: 2018-07-17 ; Times: 2
+	Date: 2018-07-24 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Glossophaga soricina" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "family:felidae order:carnivora stateprovince:&#34;oaxaca&#34;" ; Times: 2
+	Query: "neotoma magister ohio" ; Times: 1
+	Query: "Microtus Californicus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "genus:ammospermophilus stateprovince:&#34;baja california&#34;" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "&#34;lost horse&#34;" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes institutioncode:CSULB" ; Times: 1
+	Query: "Dipodomys stephensi" ; Times: 1
+	Query: "specificepithet:cinerea genus:neotoma stateprovince:&#34;california&#34; OR stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "Santa Catarina" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Anoura" ; Times: 1
+	Query: "Dendrolagus matschiei" ; Times: 1
+	Query: "specificepithet:palustris genus:Sylvilagus" ; Times: 1
+	Query: "&#34;queen valley&#34;" ; Times: 1
+	Query: "genus:Taxidea stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Canis latrans institutioncode:CSULB" ; Times: 1
+	Query: "Nyctinomops laticaudatus" ; Times: 1
+
+
+End of report.
