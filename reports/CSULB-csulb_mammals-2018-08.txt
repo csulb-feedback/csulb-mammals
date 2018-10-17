@@ -1,0 +1,146 @@
+Report for Institution Code CSULB, Resource csulb_mammals
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 109
+Number of records retrieved in searches: 304
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 81
+	Country: Unknown ; Times: 5
+	Country: Argentina ; Times: 1
+	Country: China ; Times: 1
+	Country: Colombia ; Times: 21
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-02 ; Times: 6
+	Date: 2018-08-27 ; Times: 1
+	Date: 2018-08-26 ; Times: 1
+	Date: 2018-08-17 ; Times: 6
+	Date: 2018-08-30 ; Times: 1
+	Date: 2018-08-31 ; Times: 41
+	Date: 2018-08-03 ; Times: 2
+	Date: 2018-08-24 ; Times: 7
+	Date: 2018-08-23 ; Times: 3
+	Date: 2018-08-22 ; Times: 2
+	Date: 2018-08-20 ; Times: 3
+	Date: 2018-08-16 ; Times: 2
+	Date: 2018-08-09 ; Times: 21
+	Date: 2018-08-14 ; Times: 1
+	Date: 2018-08-06 ; Times: 2
+	Date: 2018-08-13 ; Times: 2
+	Date: 2018-08-29 ; Times: 4
+	Date: 2018-08-08 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "costa mesa california" ; Times: 1
+	Query: "coendou prehensilis" ; Times: 23
+	Query: "Glaucomys sabrinus californicus" ; Times: 2
+	Query: "country:Ecuador scientificname:Stenella longirostris " ; Times: 2
+	Query: "specificepithet:yagouaroundi" ; Times: 1
+	Query: "(Microtus guentheri)" ; Times: 5
+	Query: "santa catalina island class:mammalia" ; Times: 3
+	Query: "Glaucomys sabrinus californicus vntype:specimen" ; Times: 1
+	Query: "class:Mammalia Coendou prehensilis" ; Times: 1
+	Query: "Glaucomys sabrinus californicus vntype:specimen AND (NOT columbiensis)" ; Times: 5
+	Query: "specificepithet:microps genus:Dipodomys county:&#34;Riverside&#34;" ; Times: 1
+	Query: "class:mammalia county:orange stateprovince:&#34;california&#34; mus" ; Times: 1
+	Query: "sorex ornatus orange california" ; Times: 1
+	Query: "specificepithet:borealis genus:lasiurus county:&#34;carbon&#34; stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "Glaucomys sabrinus californicus vntype:specimen AND (NOT columbiensis) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:peromyscus catalognumber:10760" ; Times: 1
+	Query: "calomys lepidus" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 21
+	Query: "glaucomys sabrinus californicus" ; Times: 1
+	Query: "order:Cetacea institutioncode:CSULB" ; Times: 1
+	Query: "stateprovince:&#34;california&#34; recordedby:sooy" ; Times: 2
+	Query: "specificepithet:minimus genus:Tamias stateprovince:&#34;Wyoming&#34;" ; Times: 2
+	Query: "COENDOU PREHENSILIS" ; Times: 1
+	Query: "sorex ornatus county:orange" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 1
+	Query: "specificepithet:borealis genus:lasiurus stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "Eulemur" ; Times: 1
+	Query: "genus:proechimys (gardner)" ; Times: 1
+	Query: "sorex ornatus salicornis" ; Times: 2
+	Query: "euderma" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 16
+	Query: "petromus" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis county:&#34;Los Angeles&#34; preparations:Skull" ; Times: 1
+	Query: "stateprovince:&#34;california&#34; recordedby:bryant year &gt;= 1962 year &lt;= 1967" ; Times: 1
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 1416 download events in this period)
+Total number of records downloaded: 1521
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 12
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 6
+	Country: Mexico ; Times: 15
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-27 ; Times: 1
+	Date: 2018-08-12 ; Times: 1
+	Date: 2018-08-30 ; Times: 2
+	Date: 2018-08-31 ; Times: 1
+	Date: 2018-08-24 ; Times: 3
+	Date: 2018-08-09 ; Times: 7
+	Date: 2018-08-03 ; Times: 1
+	Date: 2018-08-20 ; Times: 2
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-23 ; Times: 10
+	Date: 2018-08-14 ; Times: 2
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-01 ; Times: 1
+	Date: 2018-08-13 ; Times: 2
+	Date: 2018-08-29 ; Times: 2
+	Date: 2018-08-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "felis catus" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "Plecotus auritus" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(44.946440779477925,-83.84633282292259))&lt;467941.1417995581" ; Times: 1
+	Query: "Glaucomys sabrinus vntype:specimen stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "saimiri sciureus" ; Times: 1
+	Query: "Glaucomys sabrinus californicus vntype:specimen AND (NOT columbiensis)" ; Times: 2
+	Query: "lasiurus ega" ; Times: 1
+	Query: "Glaucomys sabrinus californicus" ; Times: 1
+	Query: "dipodomys agilis" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 2
+	Query: "calomys lepidus" ; Times: 1
+	Query: "puma concolor" ; Times: 4
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Mexico&#34;" ; Times: 1
+	Query: "oreotragus" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "stateprovince:&#34;california&#34; recordedby:sooy" ; Times: 1
+	Query: "specificepithet:minimus genus:Tamias stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "coendou prehensilis" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "mammals of india" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 1
+	Query: "ursus arctos" ; Times: 1
+	Query: "oaxaca" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 1
+
+
+End of report.
