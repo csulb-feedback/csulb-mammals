@@ -1,0 +1,213 @@
+Report for Institution Code CSULB, Resource csulb_mammals
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 66
+Number of records retrieved in searches: 158
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: India ; Times: 5
+	Country: United States ; Times: 51
+	Country: Sweden ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-19 ; Times: 2
+	Date: 2018-12-18 ; Times: 1
+	Date: 2018-12-31 ; Times: 2
+	Date: 2018-12-30 ; Times: 3
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-14 ; Times: 4
+	Date: 2018-12-17 ; Times: 1
+	Date: 2018-12-16 ; Times: 2
+	Date: 2018-12-11 ; Times: 1
+	Date: 2018-12-10 ; Times: 1
+	Date: 2018-12-13 ; Times: 6
+	Date: 2018-12-12 ; Times: 16
+	Date: 2018-12-21 ; Times: 1
+	Date: 2018-12-22 ; Times: 1
+	Date: 2018-12-23 ; Times: 1
+	Date: 2018-12-24 ; Times: 1
+	Date: 2018-12-08 ; Times: 3
+	Date: 2018-12-09 ; Times: 1
+	Date: 2018-12-06 ; Times: 2
+	Date: 2018-12-07 ; Times: 1
+	Date: 2018-12-04 ; Times: 3
+	Date: 2018-12-05 ; Times: 4
+	Date: 2018-12-02 ; Times: 2
+	Date: 2018-12-03 ; Times: 3
+	Date: 2018-12-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:dipodomys catalognumber:11922" ; Times: 2
+	Query: "specificepithet:albigula genus:Neotoma county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:albigula genus:Neotoma locality:Glenwood county:&#34;catron&#34; stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "country:Ecuador scientificname:Stenella longirostris " ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Robertson&#34;" ; Times: 5
+	Query: "neofelis" ; Times: 1
+	Query: "locality:Pinnacles National county:&#34;San Benito&#34; stateprovince:&#34;California&#34; year &gt;= 1985 month &lt;= 1987 startdayofyear &gt;= 1 enddayofyear &lt;= 365" ; Times: 1
+	Query: "specificepithet:albigula genus:Neotoma locality:Alma stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "order:CARNIVORA county:&#34;SAN BERNARDINO&#34; stateprovince:&#34;CALIFORNIA&#34;" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Neofelis nebulosa" ; Times: 1
+	Query: "genus:dipodomys county:&#34;san benito&#34; year &gt;= 1980 year &lt;= 2000" ; Times: 1
+	Query: "specificepithet:boylii genus:Peromyscus locality:Alma stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "order:carnivora county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon family:Canidae country:&#34;Mexico&#34; (baja)" ; Times: 1
+	Query: "specificepithet:latimanus county:&#34;mono&#34;" ; Times: 1
+	Query: "stateprovince:&#34;washington&#34; (p. maniculatus)" ; Times: 1
+	Query: "Black River VIllage county:&#34;Eddy&#34;" ; Times: 1
+	Query: "catalognumber:11660" ; Times: 1
+	Query: "specificepithet:albigula genus:Neotoma county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "Leptailurus serval" ; Times: 2
+	Query: "specificepithet:macrotis genus:Vulpes county:&#34;Imperial&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "felis nigripes" ; Times: 1
+	Query: "Tamiasciurus fremonti mappable:1" ; Times: 2
+	Query: "Vampyrum spectrum" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys locality:Alma stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "galictis vittata" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:Hearne" ; Times: 1
+	Query: "class:Mammalia Ammospermophilus nelsoni" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 3
+	Query: "genus:mustela specificepithet:nigripes basisofrecord:preservedspecimen" ; Times: 1
+	Query: "specificepithet:albigula genus:Neotoma locality:gila stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "locality:Oak Grove county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:albigula genus:Neotoma locality:Glenwood stateprovince:&#34;New Mexico&#34;" ; Times: 4
+	Query: "specificepithet:macrotis genus:Vulpes county:&#34;imperial&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes county:&#34;SAN BERNARDINO&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus locality:Alma stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:neotoma county:&#34;El dorado&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:notiosorex country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:hearne county:&#34;Robertson&#34;" ; Times: 2
+	Query: "specificepithet:maniculatus genus:peromyscus locality:gila stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus locality:Gila" ; Times: 2
+	Query: "order:CARNIVORA county:&#34;SAN BERNARDINO&#34; stateprovince:&#34;CALIFORNIA&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:albigula genus:Neotoma county:&#34;catron&#34; stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "specificepithet:astutus genus:Bassariscus stateprovince:&#34;Utah&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 88 (out of 809 download events in this period)
+Total number of records downloaded: 2623
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 46
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 11
+	Country: France ; Times: 1
+	Country: United States ; Times: 24
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-05 ; Times: 1
+	Date: 2018-12-11 ; Times: 5
+	Date: 2018-12-09 ; Times: 27
+	Date: 2018-12-03 ; Times: 3
+	Date: 2018-12-20 ; Times: 1
+	Date: 2018-12-21 ; Times: 2
+	Date: 2018-12-22 ; Times: 4
+	Date: 2018-12-18 ; Times: 5
+	Date: 2018-12-08 ; Times: 3
+	Date: 2018-12-30 ; Times: 1
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-07 ; Times: 11
+	Date: 2018-12-17 ; Times: 1
+	Date: 2018-12-16 ; Times: 1
+	Date: 2018-12-04 ; Times: 4
+	Date: 2018-12-10 ; Times: 15
+	Date: 2018-12-13 ; Times: 1
+	Date: 2018-12-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: "Chaetodipus eremicus" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Leptailurus serval" ; Times: 1
+	Query: "Molossus molossus" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "Heteromys desmarestianus" ; Times: 1
+	Query: "Lasiurus ega" ; Times: 1
+	Query: "uroderma bilobatum" ; Times: 1
+	Query: "Peromyscus nasutus mexico" ; Times: 1
+	Query: "Cuniculus paca" ; Times: 1
+	Query: "genus:dipodomys county:&#34;san benito&#34;" ; Times: 1
+	Query: "Chaetodipus fallax" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "oryzomys melanotis" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Puma concolor" ; Times: 1
+	Query: "felis silvestris" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 4
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "Chaetodipus hispidus" ; Times: 2
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "class:Mammalia county:&#34;tulare&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "peromyscus leucopus" ; Times: 1
+	Query: "specificepithet:pardus genus:Panthera" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 2
+	Query: "pteronotus davyi" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "pteronotus parnellii" ; Times: 1
+	Query: "natalus mexicanus" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "nyctinomops laticaudatus" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "Loxodonta africana vntype:specimen" ; Times: 1
+	Query: "saccopteryx bilineata" ; Times: 1
+	Query: "Chaetodipus formosus" ; Times: 1
+	Query: "felis nigripes" ; Times: 1
+	Query: "Macrotus waterhousii" ; Times: 1
+	Query: "Chaetodipus intermedius" ; Times: 2
+	Query: "procyon lotor" ; Times: 1
+	Query: "Panthera leo vntype:specimen" ; Times: 1
+	Query: "Lasiurus intermedius" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Dipodomys ordii" ; Times: 2
+	Query: "carollia perspicillata" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "sturnira lilium" ; Times: 1
+	Query: "noctilio leporinus" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+	Query: "galictis vittata" ; Times: 1
+	Query: "class:Mammalia county:&#34;fresno&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "lynx lynx" ; Times: 1
+	Query: "sylvilagus floridanus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:hearne county:&#34;Robertson&#34;" ; Times: 1
+	Query: "country:&#34;Mexico&#34; continent:America" ; Times: 2
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus locality:Gila" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "potos flavus" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus" ; Times: 1
+	Query: "Panthera pardus vntype:specimen" ; Times: 1
+	Query: "bradypus variegatus" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+	Query: "genus:pongo" ; Times: 1
+
+
+End of report.
