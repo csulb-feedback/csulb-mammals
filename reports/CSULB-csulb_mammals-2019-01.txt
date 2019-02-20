@@ -1,0 +1,234 @@
+Report for Institution Code CSULB, Resource csulb_mammals
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 203
+Number of records retrieved in searches: 793
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 1
+	Country: Czechia ; Times: 2
+	Country: United States ; Times: 193
+	Country: Norway ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-17 ; Times: 3
+	Date: 2019-01-18 ; Times: 1
+	Date: 2019-01-19 ; Times: 7
+	Date: 2019-01-14 ; Times: 5
+	Date: 2019-01-16 ; Times: 5
+	Date: 2019-01-31 ; Times: 46
+	Date: 2019-01-10 ; Times: 2
+	Date: 2019-01-11 ; Times: 2
+	Date: 2019-01-12 ; Times: 2
+	Date: 2019-01-03 ; Times: 2
+	Date: 2019-01-02 ; Times: 1
+	Date: 2019-01-29 ; Times: 26
+	Date: 2019-01-28 ; Times: 4
+	Date: 2019-01-07 ; Times: 1
+	Date: 2019-01-06 ; Times: 3
+	Date: 2019-01-05 ; Times: 1
+	Date: 2019-01-04 ; Times: 2
+	Date: 2019-01-21 ; Times: 4
+	Date: 2019-01-23 ; Times: 2
+	Date: 2019-01-22 ; Times: 8
+	Date: 2019-01-25 ; Times: 25
+	Date: 2019-01-24 ; Times: 12
+	Date: 2019-01-27 ; Times: 2
+	Date: 2019-01-26 ; Times: 6
+	Date: 2019-01-30 ; Times: 31
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:quadrimaculatus genus:tamias institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:palmeri genus:tamias institutioncode:CSULB" ; Times: 1
+	Query: "albania" ; Times: 1
+	Query: "specificepithet:alpinus genus:tamias institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:striatus genus:tamias institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:canipes genus:tamias institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:senex genus:tamias institutioncode:CSULB" ; Times: 1
+	Query: "&#34;cave&#34; county:&#34;giles&#34; stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "Hydropotes inermis" ; Times: 2
+	Query: "specificepithet:quadrimaculatus genus:tamias" ; Times: 3
+	Query: "warreni" ; Times: 2
+	Query: "Acinonyx jubatus" ; Times: 3
+	Query: "specificepithet:sonomae genus:tamias institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:albigula genus:Neotoma locality:Alma stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "specificepithet:speciosus genus:tamias institutioncode:CSULB" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "specificepithet:californicus genus:Peromyscus county:&#34;Riverside&#34;" ; Times: 2
+	Query: "specificepithet:wiedii genus:Leopardus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:townsendii genus:tamias institutioncode:CSULB" ; Times: 2
+	Query: "specificepithet:siskiyou genus:tamias institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:Alma stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:palmeri genus:tamias" ; Times: 1
+	Query: "oryx leucoryx" ; Times: 1
+	Query: "(&#34;Tremarctos ornatus&#34;)" ; Times: 2
+	Query: "family:leporidae stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "Oryx leucoryx" ; Times: 1
+	Query: "specificepithet:bulleri genus:tamias" ; Times: 2
+	Query: "specificepithet:boylii genus:Peromyscus locality:Alma stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 25
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "specificepithet:gazella genus:gazella" ; Times: 1
+	Query: "Panthera tigris altaica" ; Times: 1
+	Query: "specificepithet:quadrivittatus genus:tamias institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 24
+	Query: "tremarctos ornatus" ; Times: 15
+	Query: "myotis volans stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:ruficaudus genus:tamias institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:panamintinus genus:tamias institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:canipes genus:tamias" ; Times: 4
+	Query: "specificepithet:bachmani genus:Sylvilagus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "(&#34;tremarctos ornatus&#34;)" ; Times: 1
+	Query: "specificepithet:umbrinus genus:tamias institutioncode:CSULB" ; Times: 2
+	Query: "specificepithet:truei genus:Peromyscus locality:Alma stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "Dipodomys heermanni goldmani" ; Times: 2
+	Query: "specificepithet:merriami genus:tamias institutioncode:CSULB" ; Times: 2
+	Query: "specificepithet:ordii genus:Dipodomys locality:Alma stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:ochrogenys genus:tamias institutioncode:CSULB" ; Times: 1
+	Query: "(Tremarctos Ornatus)" ; Times: 1
+	Query: "specificepithet:hispidus genus:sigmodon stateprovince:&#34;sonora&#34; country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:bachmani genus:Sylvilagus county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Bassariscus astutus octavus" ; Times: 8
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 2
+	Query: "specificepithet:amoenus genus:tamias institutioncode:CSULB" ; Times: 1
+	Query: "catalognumber:5622" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "specificepithet:erminea genus:mustela stateprovince:&#34;montana&#34;" ; Times: 2
+	Query: "“Tremarctos ornatus”" ; Times: 5
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:bulleri genus:tamias institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:bachmani genus:Sylvilagus county:&#34;Orange&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Equus hemionus" ; Times: 2
+	Query: "Speothos venaticus" ; Times: 1
+	Query: "lasiurus xanthinus" ; Times: 1
+	Query: "specificepithet:albirostris genus:Przewalskium" ; Times: 1
+	Query: "specificepithet:ochrogenys genus:tamias" ; Times: 2
+	Query: "genus:mustela stateprovince:&#34;montana&#34;" ; Times: 1
+	Query: "(Tremarctos ornatus)" ; Times: 5
+	Query: "&#34;Ursus arctos middendorffi&#34;" ; Times: 1
+	Query: "(&#34;Suricata suricatta&#34;)" ; Times: 1
+	Query: "Moschus" ; Times: 2
+	Query: "specificepithet:panamintinus genus:tamias" ; Times: 2
+	Query: "dermoptera" ; Times: 3
+	Query: "&#34;Erinaceidae Erinaceus&#34;" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "&#34;tremarctos ornatus&#34;" ; Times: 19
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 197 (out of 962 download events in this period)
+Total number of records downloaded: 909
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: Brazil ; Times: 5
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 178
+	Country: Ecuador ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 2
+	Date: 2019-01-02 ; Times: 1
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-07 ; Times: 4
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-28 ; Times: 15
+	Date: 2019-01-14 ; Times: 1
+	Date: 2019-01-20 ; Times: 1
+	Date: 2019-01-09 ; Times: 1
+	Date: 2019-01-17 ; Times: 3
+	Date: 2019-01-25 ; Times: 7
+	Date: 2019-01-11 ; Times: 5
+	Date: 2019-01-27 ; Times: 13
+	Date: 2019-01-13 ; Times: 1
+	Date: 2019-01-22 ; Times: 6
+	Date: 2019-01-29 ; Times: 43
+	Date: 2019-01-19 ; Times: 2
+	Date: 2019-01-31 ; Times: 48
+	Date: 2019-01-26 ; Times: 3
+	Date: 2019-01-30 ; Times: 37
+	Date: 2019-01-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:californicus genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "marmosa" ; Times: 1
+	Query: "class:Mammalia county:&#34;anderson&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Ursus arctos horribilis" ; Times: 1
+	Query: "Myotis californicus year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "vntype:specimen class:Mammalia stateprovince:&#34;Nuevo Leon&#34; country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 19
+	Query: "class:Mammalia stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 3
+	Query: "specificepithet:leucopus genus:peromyscus stateprovince:&#34;louisiana&#34;" ; Times: 3
+	Query: "(&#34;Tremarctos ornatus&#34;)" ; Times: 2
+	Query: "vntype:specimen genus:macaca" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "class:Mammalia county:&#34;cameron&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "vntype:specimen genus:Choeronycteris family:Phyllostomidae order:Chiroptera class:Mammalia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:gazella genus:gazella" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 2
+	Query: "Tremarctos ornatus" ; Times: 14
+	Query: "Neotoma mexicana" ; Times: 1
+	Query: "peromyscus californicus" ; Times: 1
+	Query: "genus:Lasiurus stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "specificepithet:bachmani genus:Sylvilagus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "(&#34;tremarctos ornatus&#34;)" ; Times: 2
+	Query: "Manidae" ; Times: 1
+	Query: "&#34;Dermoptera&#34;" ; Times: 1
+	Query: "Dipodomys heermanni goldmani" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis country:&#34;mexico&#34;" ; Times: 1
+	Query: "(dermoptera)" ; Times: 14
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Sinaloa&#34; country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "(Tremarctos Ornatus)" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "specificepithet:bachmani genus:Sylvilagus county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Dermoptera" ; Times: 22
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "genus:Dipodomys stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 8
+	Query: "specificepithet:lateralis genus:callospermophilus" ; Times: 1
+	Query: "dermoptera" ; Times: 35
+	Query: "Corynorhinus townsendii year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:bachmani genus:Sylvilagus county:&#34;Orange&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "cynocephalidae" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 9
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "elephantulus rufescens" ; Times: 1
+	Query: "oryctolagus cuniculus" ; Times: 1
+	Query: "(Tremarctos ornatus)" ; Times: 2
+	Query: "class:Mammalia county:&#34;nacogdoches&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Arborimus longicaudus" ; Times: 1
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "“Tremarctos ornatus”" ; Times: 3
+	Query: "&#34;tremarctos ornatus&#34;" ; Times: 12
+
+
+End of report.
