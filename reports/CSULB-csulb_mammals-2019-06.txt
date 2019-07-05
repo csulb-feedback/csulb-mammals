@@ -1,0 +1,241 @@
+Report for Institution Code CSULB, Resource csulb_mammals
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 180
+Number of records retrieved in searches: 584
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 170
+	Country: Brazil ; Times: 3
+	Country: Honduras ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Peru ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 1
+	Date: 2019-06-23 ; Times: 5
+	Date: 2019-06-19 ; Times: 1
+	Date: 2019-06-18 ; Times: 1
+	Date: 2019-06-27 ; Times: 5
+	Date: 2019-06-28 ; Times: 1
+	Date: 2019-06-07 ; Times: 1
+	Date: 2019-06-17 ; Times: 1
+	Date: 2019-06-11 ; Times: 71
+	Date: 2019-06-03 ; Times: 1
+	Date: 2019-06-12 ; Times: 3
+	Date: 2019-06-10 ; Times: 89
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Crocuta specificepithet:crocuta" ; Times: 2
+	Query: "genus:Myocastor specificepithet:coypus" ; Times: 1
+	Query: "genus:Psammomys specificepithet:obesus" ; Times: 2
+	Query: "genus:Tupaia specificepithet:glis" ; Times: 2
+	Query: "genus:Elephantulus specificepithet:rufescens" ; Times: 1
+	Query: "genus:Thyroptera specificepithet:tricolor" ; Times: 1
+	Query: "genus:Cuniculus specificepithet:paca" ; Times: 2
+	Query: "genus:Cyclopes specificepithet:didactylus" ; Times: 1
+	Query: "genus:Lepus specificepithet:alleni" ; Times: 1
+	Query: "Saiga tatarica" ; Times: 1
+	Query: "genus:Tupaia specificepithet:minor" ; Times: 2
+	Query: "genus:Varecia specificepithet:variegata" ; Times: 3
+	Query: "genus:Peromyscus specificepithet:ochraventer" ; Times: 1
+	Query: "genus:Aotus specificepithet:trivirgatus" ; Times: 2
+	Query: "genus:Pongo specificepithet:pygmaeus" ; Times: 3
+	Query: "genus:Lontra specificepithet:longicaudis" ; Times: 2
+	Query: "genus:Leontopithecus specificepithet:rosalia" ; Times: 2
+	Query: "genus:Galeopterus specificepithet:variegatus" ; Times: 2
+	Query: "genus:Choloepus specificepithet:didactylus " ; Times: 1
+	Query: "genus:Lasiurus specificepithet:seminolus" ; Times: 1
+	Query: "genus:Sekeetamys specificepithet:calurus" ; Times: 1
+	Query: "genus:Artibeus specificepithet:hirsutus" ; Times: 1
+	Query: "genus:Lepus specificepithet:townsendii" ; Times: 1
+	Query: "genus:Saguinus specificepithet:mystax" ; Times: 2
+	Query: "genus:Eumops specificepithet:perotis" ; Times: 1
+	Query: "genus:Acinonyx specificepithet:jubatus" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "genus:Corynorhinus specificepithet:rafinesquii" ; Times: 2
+	Query: "genus:Galictis specificepithet:vittata" ; Times: 1
+	Query: "genus:Mesocricetus specificepithet:auratus" ; Times: 1
+	Query: "genus:Myotis specificepithet:vivesi" ; Times: 1
+	Query: "genus:Suricata specificepithet:suricatta" ; Times: 1
+	Query: "genus:Aonyx specificepithet:cinerea" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "genus:Vampyrum family:Phyllostomidae institutioncode:CSULB" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:ega" ; Times: 1
+	Query: "genus:Potos specificepithet:flavus" ; Times: 2
+	Query: "genus:Petauroides specificepithet:volans" ; Times: 1
+	Query: "Sturnira lilium Honduras vntype:specimen" ; Times: 1
+	Query: "genus:Panthera specificepithet:leo" ; Times: 2
+	Query: "genus:Antilocapra specificepithet:americana" ; Times: 1
+	Query: "genus:Panthera specificepithet:pardus" ; Times: 2
+	Query: "Barrow specificepithet:lagopus genus:Vulpes stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; AND (NOT PSM NOT UAM)" ; Times: 1
+	Query: "genus:Erinaceus specificepithet:europaeus" ; Times: 3
+	Query: "genus:Mirounga specificepithet:angustirostris" ; Times: 1
+	Query: "genus:Dasypus specificepithet:hybridus" ; Times: 2
+	Query: "genus:Myotis specificepithet:mystacinus" ; Times: 1
+	Query: "genus:Ochotona specificepithet:collaris" ; Times: 1
+	Query: "genus:Callimico specificepithet:goeldii" ; Times: 2
+	Query: "genus:Cercopithecus specificepithet:neglectus" ; Times: 2
+	Query: "genus:Cebus specificepithet:capucinus" ; Times: 2
+	Query: "genus:Coendou specificepithet:prehensilis" ; Times: 2
+	Query: "genus:Cavia specificepithet:porcellus" ; Times: 1
+	Query: "genus:Phenacomys specificepithet:intermedius" ; Times: 1
+	Query: "genus:Choeronycteris specificepithet:mexicana" ; Times: 1
+	Query: "Tlacuatzin canescens year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "genus:Hylobates specificepithet:lar" ; Times: 2
+	Query: "genus:Chinchilla specificepithet:lanigera" ; Times: 1
+	Query: "genus:Speothos specificepithet:venaticus" ; Times: 1
+	Query: "genus:Atelerix" ; Times: 1
+	Query: "genus:Procavia specificepithet:capensis" ; Times: 2
+	Query: "specificepithet:latrans genus:Canis county:&#34;Imperial&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Rhinolophus specificepithet:hipposideros" ; Times: 1
+	Query: "genus:Tapirus specificepithet:indicus" ; Times: 2
+	Query: "genus:Lasiurus specificepithet:intermedius" ; Times: 1
+	Query: "genus:Mustela specificepithet:nivalis" ; Times: 1
+	Query: "genus:Spilogale specificepithet:gracilis" ; Times: 1
+	Query: "genus:xerospermophilus class:mammalia institutioncode:CSULB" ; Times: 1
+	Query: "genus:Phascolarctos specificepithet:cinereus" ; Times: 1
+	Query: "genus:Tamandua specificepithet:tetradactyla" ; Times: 1
+	Query: "class:mammalia country:&#34;kenya&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:Rhinolophus specificepithet:ferrumequinum" ; Times: 1
+	Query: "genus:Saguinus specificepithet:oedipus" ; Times: 2
+	Query: "genus:Sylvilagus specificepithet:bachmani" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:San Clemente" ; Times: 1
+	Query: "genus:Nycticebus specificepithet:pygmaeus" ; Times: 2
+	Query: "genus:Thomomys specificepithet:mazama" ; Times: 1
+	Query: "genus:Hydrochoerus specificepithet:hydrochaeris" ; Times: 1
+	Query: "genus:Sylvilagus specificepithet:aquaticus" ; Times: 2
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "genus:Pedetes specificepithet:capensis" ; Times: 1
+	Query: "genus:Nasua specificepithet:narica" ; Times: 2
+	Query: "genus:Heterocephalus specificepithet:glaber" ; Times: 1
+	Query: "genus:Eulemur specificepithet:macaco" ; Times: 2
+	Query: "genus:Lemur specificepithet:catta" ; Times: 3
+	Query: "genus:Ateles specificepithet:belzebuth" ; Times: 2
+	Query: "genus:Peromyscus specificepithet:interparietalis" ; Times: 1
+	Query: "genus:Amblysomus specificepithet:hottentotus" ; Times: 1
+	Query: "specificepithet:tereticaudus genus:xerospermophilus class:mammalia institutioncode:CSULB" ; Times: 1
+	Query: "genus:Globicephala specificepithet:macrorhynchus" ; Times: 2
+	Query: "genus:Cryptomys specificepithet:hottentotus" ; Times: 1
+	Query: "genus:Orycteropus specificepithet:afer" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:melanocarpus" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:yucatanicus" ; Times: 1
+	Query: "genus:Tachyglossus specificepithet:aculeatus" ; Times: 1
+	Query: "genus:Aepyceros specificepithet:melampus" ; Times: 1
+	Query: "genus:Cebus specificepithet:albifrons" ; Times: 2
+	Query: "genus:Cricetomys specificepithet:gambianus" ; Times: 2
+	Query: "genus:Saguinus specificepithet:fuscicollis" ; Times: 2
+	Query: "genus:Bradypus specificepithet:variegatus" ; Times: 1
+	Query: "genus:Callithrix specificepithet:geoffroyi" ; Times: 2
+	Query: "class:mammalia stateprovince:&#34;vermont&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:Loxodonta specificepithet:africana" ; Times: 1
+	Query: "genus:Colobus specificepithet:guereza" ; Times: 2
+	Query: "genus:Leopardus specificepithet:pardalis" ; Times: 1
+	Query: "genus:Ailurus specificepithet:fulgens" ; Times: 1
+	Query: "genus:Glis specificepithet:glis" ; Times: 1
+	Query: "genus:Arctictis specificepithet:binturong" ; Times: 2
+	Query: "genus:Saimiri specificepithet:sciureus" ; Times: 3
+	Query: "genus:Chrysochloris specificepithet:asiatica" ; Times: 1
+	Query: "genus:Acrobates specificepithet:pygmaeus" ; Times: 1
+	Query: "genus:Lagothrix specificepithet:lagothricha" ; Times: 2
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;otsego&#34; stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "genus:Nyctalus specificepithet:noctula" ; Times: 1
+	Query: "genus:Callithrix specificepithet:pygmaea" ; Times: 2
+	Query: "Sturnira lilium Honduras" ; Times: 2
+	Query: "genus:Barbastella specificepithet:barbastellus" ; Times: 1
+	Query: "genus:Aplodontia specificepithet:rufa" ; Times: 2
+	Query: "genus:Hylobates specificepithet:syndactylus" ; Times: 2
+	Query: "Sturnira lilium Honduras AND (parvidens)" ; Times: 1
+	Query: "genus:Neofelis specificepithet:nebulosa" ; Times: 1
+	Query: "Mesocricetus auratus" ; Times: 1
+	Query: "genus:Plecotus specificepithet:auritus" ; Times: 1
+	Query: "Marmosops fuscatus year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "genus:Bassariscus specificepithet:astutus" ; Times: 1
+	Query: "specificepithet:merriami genus:tamias class:mammalia institutioncode:CSULB" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 53 (out of 1182 download events in this period)
+Total number of records downloaded: 641
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 37
+	Country: Denmark ; Times: 1
+	Country: Brazil ; Times: 5
+	Country: Peru ; Times: 4
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 1
+	Date: 2019-06-22 ; Times: 3
+	Date: 2019-06-19 ; Times: 1
+	Date: 2019-06-18 ; Times: 3
+	Date: 2019-06-08 ; Times: 1
+	Date: 2019-06-30 ; Times: 2
+	Date: 2019-06-06 ; Times: 4
+	Date: 2019-06-07 ; Times: 9
+	Date: 2019-06-04 ; Times: 8
+	Date: 2019-06-05 ; Times: 4
+	Date: 2019-06-11 ; Times: 4
+	Date: 2019-06-03 ; Times: 2
+	Date: 2019-06-13 ; Times: 4
+	Date: 2019-06-12 ; Times: 2
+	Date: 2019-06-28 ; Times: 1
+	Date: 2019-06-24 ; Times: 1
+	Date: 2019-06-26 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "ursus americanus" ; Times: 2
+	Query: "genus:Vampyrum family:Phyllostomidae" ; Times: 1
+	Query: "Vulpes zerda" ; Times: 1
+	Query: "california condor" ; Times: 1
+	Query: "Phyllostomus hastatus" ; Times: 1
+	Query: "specificepithet:gapperi genus:Myodes" ; Times: 1
+	Query: "enhydra lutris nereis" ; Times: 1
+	Query: "Castor canadensis canadensis" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 1
+	Query: "ovis canadensis" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "tamandua tetradactyla year &gt;= 1969 year &lt;= 2020" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "specificepithet:merriami genus:Dipodomys stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona year &gt;= 1946 year &lt;= 1955" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona year &gt;= 1926 year &lt;= 1935" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "genus:Tamiasciurus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Saiga tatarica" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona year &gt;= 1956 year &lt;= 1975" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "Canis lupus familiaris" ; Times: 1
+	Query: "Peromyscus eva" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 2
+	Query: "Bassariscus astutus" ; Times: 2
+	Query: "Mustela frenata" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "specificepithet:flavus genus:perognathus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona year &gt;= 1936 year &lt;= 1945" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 2
+	Query: "Tlacuatzin canescens year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "corynorhinus townsendii" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Marmosops fuscatus year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "Castor canadensis" ; Times: 3
+	Query: "Nyctinomops laticaudatus" ; Times: 1
+
+
+End of report.
