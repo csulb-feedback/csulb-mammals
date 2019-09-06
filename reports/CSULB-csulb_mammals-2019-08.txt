@@ -1,0 +1,404 @@
+Report for Institution Code CSULB, Resource csulb_mammals
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 371
+Number of records retrieved in searches: 8012
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: United States ; Times: 326
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 3
+	Country: United Kingdom ; Times: 19
+	Country: Peru ; Times: 1
+	Country: South Korea ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-27 ; Times: 1
+	Date: 2019-08-06 ; Times: 2
+	Date: 2019-08-07 ; Times: 29
+	Date: 2019-08-01 ; Times: 5
+	Date: 2019-08-02 ; Times: 7
+	Date: 2019-08-03 ; Times: 25
+	Date: 2019-08-05 ; Times: 22
+	Date: 2019-08-28 ; Times: 8
+	Date: 2019-08-29 ; Times: 8
+	Date: 2019-08-26 ; Times: 2
+	Date: 2019-08-09 ; Times: 4
+	Date: 2019-08-24 ; Times: 3
+	Date: 2019-08-22 ; Times: 1
+	Date: 2019-08-20 ; Times: 27
+	Date: 2019-08-21 ; Times: 44
+	Date: 2019-08-16 ; Times: 2
+	Date: 2019-08-15 ; Times: 15
+	Date: 2019-08-13 ; Times: 12
+	Date: 2019-08-12 ; Times: 54
+	Date: 2019-08-11 ; Times: 1
+	Date: 2019-08-30 ; Times: 22
+	Date: 2019-08-19 ; Times: 49
+	Date: 2019-08-18 ; Times: 28
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "specificepithet:umbrinus genus:thomomys order:rodentia class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:peromyscus family:cricetidae class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "genus:sorex class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:reithrodontomys family:cricetidae class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:. genus:lynx order:carnivora class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:mus order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "order:artiodactyla class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 2
+	Query: "Hydropotes inermis" ; Times: 5
+	Query: "xerospermophilus mohavensis" ; Times: 2
+	Query: "order:rodentia class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:crinitus genus:peromyscus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "order:carnivora class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:fallax genus:chaetodipus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "order:artiodactyla class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:scapanus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:Thyroptera AND (NOT albiventer) year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "genus:myotis class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 2
+	Query: "genus:thomomys order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "order:artiodactyla class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Jacob fork river" ; Times: 1
+	Query: "order:lagomorpha class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:. genus:mustela order:carnivora class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:peromyscus order:rodentia class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 2
+	Query: "genus:neotoma family:cricetidae class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:californicus genus:peromyscus order:rodentia class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:canis order:carnivora class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:panamintinus genus:tamias class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:. genus:chaetodipus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "Dasypus hybridus" ; Times: 1
+	Query: "order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:heermanni genus:dipodomys order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "catalognumber:244" ; Times: 1
+	Query: "order:carnivora class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:peromyscus order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:leucurus genus:ammospermophilus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:Vulpes county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "family:geomyidae order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:otospermophilus order:rodentia class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:agilis genus:dipodomys order:rodentia class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "galictis vittata" ; Times: 6
+	Query: "Myotis mystacinus" ; Times: 1
+	Query: "specificepithet:lepida genus:neotoma class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:microps genus:dipodomys order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:microtus family:cricetidae class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:tamias order:rodentia class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:reithrodontomys order:rodentia class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:chaetodipus order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "specificepithet:. genus:ammospermophilus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:agilis genus:dipodomys order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "Ozotoceros bezoarticus" ; Times: 1
+	Query: "genus:otospermophilus order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:urocyon order:carnivora class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 2
+	Query: "Galictis vittata" ; Times: 2
+	Query: "specificepithet:eremicus genus:peromyscus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:mohavensis genus:xerospermophilus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:taxidea order:carnivora class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "vntype:specimen specificepithet:lotor genus:procyon county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "Vulpes macrotis mutica" ; Times: 5
+	Query: "specificepithet:californicus genus:peromyscus order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:speciosus genus:Tamias county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Callithrix geoffroyi" ; Times: 1
+	Query: "Axis porcinus" ; Times: 1
+	Query: "specificepithet:speciosus genus:tamias class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:mus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:stephensi genus:dipodomys class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "Myotis melanorhinus" ; Times: 1
+	Query: "specificepithet:penicillatus genus:chaetodipus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "Neotoma macrotis" ; Times: 10
+	Query: "Saguinus oedipus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus order:rodentia class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "order:chiroptera class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 2
+	Query: "genus:dipodomys order:rodentia class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 2
+	Query: "genus:lynx order:carnivora class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 5
+	Query: "genus:mus order:rodentia class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:eremicus genus:peromyscus order:rodentia class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:lepus order:lagomorpha class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:Notiosorex county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 9
+	Query: "genus:peromyscus order:rodentia class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:chaetodipus order:rodentia class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "vntype:specimen specificepithet:lotor genus:procyon county:&#34;San Diego&#34;" ; Times: 1
+	Query: "genus:tamias order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:onychomys order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "Myotis leibii" ; Times: 1
+	Query: "specificepithet:parvus genus:perognathus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "family:cricetidae class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:alticola genus:perognathus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "order:chiroptera class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:nitratoides genus:dipodomys order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "family:sciuridae order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:fuscipes genus:neotoma class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:onychomys class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:truei genus:peromyscus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "Myotis capaccinii" ; Times: 1
+	Query: "class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 2
+	Query: "specificepithet:truei genus:peromyscus order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "Cynomys parvidens" ; Times: 4
+	Query: "specificepithet:merriami genus:dipodomys class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:astutus octavus genus:bassariscus" ; Times: 1
+	Query: "order:lagomorpha class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 2
+	Query: "specificepithet:nelsoni genus:ammospermophilus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:dipodomys order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:ammospermophilus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:nitratoides genus:dipodomys order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:boylii genus:peromyscus order:rodentia class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:heermanni genus:dipodomys order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "order:chiroptera class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "family:heteromyidae order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 6
+	Query: "genus:dipodomys order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 7
+	Query: "Peromyscus truei lagunae" ; Times: 2
+	Query: "genus:lasiurus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "glaucomys volans vntype:specimen stateprovince:&#34;Massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:truei genus:peromyscus order:rodentia class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:lasionycteris class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "genus:ammospermophilus order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:thomomys order:rodentia class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "euderma maculatum" ; Times: 2
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "genus:perognathus order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:onychomys order:rodentia class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:. genus:canis order:carnivora class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:microtus order:rodentia class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:otospermophilus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:reithrodontomys order:rodentia class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:crinitus genus:peromyscus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "Pecari tajacu mappable:1" ; Times: 2
+	Query: "genus:notiosorex class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:. genus:taxidea order:carnivora class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "family:muridae order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:spinatus genus:chaetodipus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "vntype:specimen specificepithet:serotinus genus:Eptesicus preparations:skull" ; Times: 1
+	Query: "Leontopithecus rosalia" ; Times: 1
+	Query: "genus:sylvilagus order:lagomorpha class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "order:lagomorpha class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:deserti genus:dipodomys class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 3
+	Query: "specificepithet:merriami genus:dipodomys order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 6
+	Query: "genus:sciurus order:rodentia class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "order:rodentia class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:Ammospermophilus county:&#34;Riverside&#34;" ; Times: 4
+	Query: "Tamandua tetradactyla year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "Humboldtiana" ; Times: 1
+	Query: "genus:rattus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:panamintinus genus:dipodomys class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:thomomys order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "Cebus capucinus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "order:artiodactyla class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:peromyscus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:reithrodontomys order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:merriami genus:tamias class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:californicus genus:peromyscus order:rodentia class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:mephitis order:carnivora class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:panamintinus genus:dipodomys order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:fuscipes genus:neotoma order:rodentia class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:scapanus class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:perognathus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:boylii county:&#34;Riverside&#34; institutioncode:CSULB" ; Times: 1
+	Query: "Neotoma lepida arenacea" ; Times: 1
+	Query: "genus:reithrodontomys order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:ingens genus:dipodomys order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:bottae genus:thomomys order:rodentia class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:microtus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:onychomys family:cricetidae class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:glaucomys class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:agilis genus:dipodomys order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:callospermophilus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:truei genus:peromyscus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 5
+	Query: "Neotoma fuscipes" ; Times: 4
+	Query: "specificepithet:longimembris genus:perognathus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:dipodomys class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:spilogale order:carnivora class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:onychomys order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "Chrysocyon brachyurus mappable:1" ; Times: 2
+	Query: "specificepithet:. genus:vulpes order:carnivora class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:xanthonotus genus:perognathus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:peromyscus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:perognathus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 2
+	Query: "genus:lepus order:lagomorpha class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:neotoma order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:xerospermophilus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:sciurus order:rodentia class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 1
+	Query: "family:sciuridae order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 2
+	Query: "specificepithet:californicus genus:peromyscus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:. order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:neotoma class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 2
+	Query: "peromyscus boylii county:&#34;riverside&#34; year &gt;= 1961 year &lt;= 1965" ; Times: 1
+	Query: "specificepithet:littoralis genus:Urocyon AND (NOT LACM NOT UCLA)" ; Times: 1
+	Query: "Gazella dorcas" ; Times: 1
+	Query: "genus:procyon order:carnivora class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:boylii genus:peromyscus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:neotoma order:rodentia class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "family:muridae class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "order:carnivora class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:californicus genus:chaetodipus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "order:lagomorpha class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:scapanus class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:microtus order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:longimembris genus:perognathus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:microtus order:rodentia class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:otospermophilus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "order:carnivora class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:. order:carnivora class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:microps genus:dipodomys class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:sciurus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "order:lagomorpha class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "order:lagomorpha class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:boylii genus:peromyscus order:rodentia class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:eptesicus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:mustela order:carnivora class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 4
+	Query: "specificepithet:audubonii genus:sylvilagus order:lagomorpha class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "Perognathus alticola" ; Times: 12
+	Query: "vntype:specimen specificepithet:maculatum genus:Euderma year &gt;= 1970 year &lt;= 2019" ; Times: 2
+	Query: "Sciurus colliaei" ; Times: 1
+	Query: "genus:neotoma order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:corynorhinus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:chaetodipus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 11
+	Query: "specificepithet:boylii genus:peromyscus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:rattus order:rodentia class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 2
+	Query: "specificepithet:. genus:lasiurus class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:eremicus genus:peromyscus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:neotoma order:rodentia class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:thomomys class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus order:rodentia class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:Sorex county:&#34;Riverside&#34;" ; Times: 2
+	Query: "genus:tamias class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:agilis genus:dipodomys order:rodentia class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:agilis genus:dipodomys class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:thomomys order:rodentia class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:chaetodipus order:rodentia class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:pipistrellus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:formosus genus:chaetodipus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:sciurus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:inornatus genus:perognathus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "vntype:specimen specificepithet:lotor genus:procyon institutioncode:CSULB" ; Times: 2
+	Query: "genus:dipodomys order:rodentia class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:didelphis class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:albigula genus:neotoma class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "eulemur" ; Times: 2
+	Query: "genus:sorex class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 80 (out of 1034 download events in this period)
+Total number of records downloaded: 1085
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 57
+	Country: Brazil ; Times: 4
+	Country: China ; Times: 2
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-12 ; Times: 3
+	Date: 2019-08-07 ; Times: 1
+	Date: 2019-08-19 ; Times: 11
+	Date: 2019-08-15 ; Times: 2
+	Date: 2019-08-23 ; Times: 2
+	Date: 2019-08-02 ; Times: 2
+	Date: 2019-08-13 ; Times: 3
+	Date: 2019-08-05 ; Times: 8
+	Date: 2019-08-28 ; Times: 8
+	Date: 2019-08-29 ; Times: 8
+	Date: 2019-08-26 ; Times: 7
+	Date: 2019-08-09 ; Times: 2
+	Date: 2019-08-24 ; Times: 4
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-31 ; Times: 1
+	Date: 2019-08-30 ; Times: 2
+	Date: 2019-08-20 ; Times: 11
+	Date: 2019-08-21 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:capaccinii genus:myotis" ; Times: 1
+	Query: "nycticeius humeralis" ; Times: 2
+	Query: "lasionycteris noctivagans" ; Times: 1
+	Query: "vntype:specimen specificepithet:serotinus genus:Eptesicus preparations:skull" ; Times: 1
+	Query: "uroderma bilobatum" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 2
+	Query: "Potos" ; Times: 1
+	Query: "lasiurus xanthinus" ; Times: 1
+	Query: "lasiurus blossevillii" ; Times: 1
+	Query: "vntype:specimen specificepithet:pipistrellus genus:pipistrellus preparations:skull" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:Thyroptera AND (NOT albiventer) year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "pipistrellus hesperus" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "mormoops megalophylla" ; Times: 1
+	Query: "Ovibos" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "artibeus aztecus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "lasiurus ega" ; Times: 3
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "myotis velifer" ; Times: 1
+	Query: "myotis volans" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Glossophaga leachii" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "vntype:specimen specificepithet:noctivagans genus:Lasionycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "choeronycteris mexicana" ; Times: 3
+	Query: "vntype:specimen specificepithet:maculatum genus:Euderma year &gt;= 1970 year &lt;= 2019" ; Times: 2
+	Query: "myotis californicus" ; Times: 1
+	Query: "euderma maculatum" ; Times: 2
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "ochotona princeps" ; Times: 6
+	Query: "Chaetodipus intermedius" ; Times: 2
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "genus:Lynx country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Tamandua tetradactyla year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "pipistrellus subflavus" ; Times: 1
+	Query: "loxodonta africana" ; Times: 1
+	Query: "anoura geoffroyi" ; Times: 1
+	Query: "Nasua" ; Times: 1
+	Query: "myotis ciliolabrum" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "corynorhinus rafinesquii" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "panthera tigris" ; Times: 4
+	Query: "puma concolor" ; Times: 1
+	Query: "lasiurus intermedius" ; Times: 1
+	Query: "myotis occultus" ; Times: 1
+	Query: "corynorhinus townsendii" ; Times: 2
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "vntype:specimen specificepithet:myotis genus:myotis preparations:skull" ; Times: 1
+	Query: "vntype:specimen specificepithet:mexicana genus:Choeronycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "eulemur" ; Times: 1
+	Query: "specificepithet:blythii genus:Myotis" ; Times: 1
+
+
+End of report.
