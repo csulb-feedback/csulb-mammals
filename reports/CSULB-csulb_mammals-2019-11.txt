@@ -1,0 +1,180 @@
+Report for Institution Code CSULB, Resource csulb_mammals
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 139
+Number of records retrieved in searches: 556
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 67
+	Country: Denmark ; Times: 62
+	Country: Germany ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 3
+	Date: 2019-11-30 ; Times: 1
+	Date: 2019-11-22 ; Times: 2
+	Date: 2019-11-05 ; Times: 1
+	Date: 2019-11-18 ; Times: 1
+	Date: 2019-11-08 ; Times: 10
+	Date: 2019-11-09 ; Times: 9
+	Date: 2019-11-06 ; Times: 8
+	Date: 2019-11-07 ; Times: 20
+	Date: 2019-11-04 ; Times: 1
+	Date: 2019-11-16 ; Times: 9
+	Date: 2019-11-11 ; Times: 3
+	Date: 2019-11-03 ; Times: 33
+	Date: 2019-11-13 ; Times: 2
+	Date: 2019-11-01 ; Times: 1
+	Date: 2019-11-15 ; Times: 15
+	Date: 2019-11-23 ; Times: 2
+	Date: 2019-11-10 ; Times: 1
+	Date: 2019-11-14 ; Times: 5
+	Date: 2019-11-26 ; Times: 3
+	Date: 2019-11-12 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Cynomys parvidens 2017" ; Times: 6
+	Query: "Myotis sodalis 2017" ; Times: 4
+	Query: "genus:Glaucomys county:&#34;San Bernardino&#34;" ; Times: 3
+	Query: "vntype:specimen genus:dipodomys preparations:skeleton institutioncode:CSULB" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "Myotis septentrionalis 2017" ; Times: 4
+	Query: "Lynx canadensis 2017" ; Times: 3
+	Query: "Cervus elaphus" ; Times: 1
+	Query: "Cuniculus paca" ; Times: 8
+	Query: "Lynx canadensis 1981" ; Times: 4
+	Query: "catalognumber:6942" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 8
+	Query: "genus:Lasionycteris county:&#34;Washington&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Connochaetes taurinus" ; Times: 1
+	Query: "year &gt;= 1959 year &lt;= 1964 institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:formosus genus:Chaetodipus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Urocitellus armatus" ; Times: 1
+	Query: "vntype:specimen genus:thomomys preparations:skeleton institutioncode:CSULB" ; Times: 1
+	Query: "Cebus capucinus" ; Times: 6
+	Query: "Nasua narica" ; Times: 4
+	Query: "genus:Mus county:&#34;Los Angeles&#34;" ; Times: 2
+	Query: "Lontra longicaudis" ; Times: 6
+	Query: "Dasyprocta leporina" ; Times: 2
+	Query: "Leopardus pardalis 1972" ; Times: 4
+	Query: "dipodomys summit road" ; Times: 1
+	Query: "Xerospermophilus spilosoma" ; Times: 1
+	Query: "acinonyx jubatus" ; Times: 1
+	Query: "Petauroides volans" ; Times: 2
+	Query: "Calomys lepidus" ; Times: 1
+	Query: "specificepithet:tereticaudus genus:Xerospermophilus county:&#34;San Diego&#34;" ; Times: 1
+	Query: "Peromyscus yucatanicus" ; Times: 1
+	Query: "dipodomys merriami parvus" ; Times: 2
+	Query: "Panthera pardus" ; Times: 2
+	Query: "Kobus ellipsiprymnus" ; Times: 1
+	Query: "Saguinus fuscicollis" ; Times: 1
+	Query: "Urocitellus beldingi" ; Times: 1
+	Query: "Peromyscus melanocarpus" ; Times: 1
+	Query: "Capra ibex" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 3
+	Query: "genus:Rattus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Aepyceros melampus" ; Times: 6
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "specificepithet:speciosus county:&#34;riverside&#34;" ; Times: 1
+	Query: "specificepithet:baileyi genus:Chaetodipus county:&#34;Yavapai&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Peromyscus ochraventer" ; Times: 1
+	Query: "Mirounga angustirostris" ; Times: 1
+	Query: "Callorhinus ursinus" ; Times: 2
+	Query: "genus:glaucomys county:&#34;san bernardino&#34;" ; Times: 1
+	Query: "Gulo luscus" ; Times: 1
+	Query: "10565 Mexico" ; Times: 1
+	Query: "dipodomys loma" ; Times: 1
+	Query: "Phascolarctos cinereus" ; Times: 1
+	Query: "Vulpes macrotis mutica 1973" ; Times: 3
+	Query: "Vulpes macrotis mutica 2017" ; Times: 3
+	Query: "Leopardus pardalis 2017" ; Times: 4
+	Query: "specificepithet:spinatus genus:chaetodipus county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 2
+	Query: "specificepithet:musculus genus:Mus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "myotis septentrionalis vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:spinatus genus:Chaetodipus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34; year &gt;= 1950 year &lt;= 1970" ; Times: 2
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) institutioncode:CSULB" ; Times: 1
+	Query: "genus:eptesicus stateprovince:&#34;Minnesota&#34;" ; Times: 5
+	Query: "Urocyon littoralis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 46 (out of 1367 download events in this period)
+Total number of records downloaded: 1861
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 43
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 1
+	Date: 2019-11-21 ; Times: 1
+	Date: 2019-11-22 ; Times: 5
+	Date: 2019-11-23 ; Times: 1
+	Date: 2019-11-24 ; Times: 1
+	Date: 2019-11-08 ; Times: 1
+	Date: 2019-11-27 ; Times: 1
+	Date: 2019-11-06 ; Times: 5
+	Date: 2019-11-07 ; Times: 4
+	Date: 2019-11-04 ; Times: 3
+	Date: 2019-11-10 ; Times: 1
+	Date: 2019-11-13 ; Times: 2
+	Date: 2019-11-01 ; Times: 5
+	Date: 2019-11-15 ; Times: 4
+	Date: 2019-11-12 ; Times: 10
+	Date: 2019-11-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Urocyon stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:baileyi genus:Chaetodipus county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Chaetodipus locality:Tucson" ; Times: 1
+	Query: "specificepithet:baileyi genus:Chaetodipus county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Herpestes ichneumon" ; Times: 1
+	Query: "myotis septentrionalis vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus" ; Times: 5
+	Query: "family:Canidae (zoo OR captive)" ; Times: 1
+	Query: "specificepithet:baileyi genus:Chaetodipus stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:baileyi genus:Chaetodipus county:&#34;Yavapai&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:formosus genus:Chaetodipus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "specificepithet:fallax genus:Chaetodipus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lateralis genus:Callospermophilus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Tamiasciurus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:baileyi genus:Chaetodipus county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34; year &gt;= 1969 year &lt;= 1990" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 1
+	Query: "specificepithet:arenarius genus:Chaetodipus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34; year &gt;= 1950 year &lt;= 1980" ; Times: 1
+	Query: "specificepithet:spinatus genus:Chaetodipus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34; year &gt;= 1950 year &lt;= 1970" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "specificepithet:baileyi genus:Chaetodipus county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34; year &gt;= 1939 year &lt;= 1970" ; Times: 1
+	Query: "Lasiurus xanthinus" ; Times: 1
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "genus:Spilogale stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Vulpes stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Chaetodipus county:&#34;Kern&#34; stateprovince:&#34;California&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "order:rodentia county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Chaetodipus county:&#34;Riverside&#34; stateprovince:&#34;California&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "order:rodentia stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:penicillatus genus:Chaetodipus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:baileyi genus:Chaetodipus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:musculus genus:Mus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:quadrivittatus genus:Tamias stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "genus:Chaetodipus county:&#34;Imperial&#34; stateprovince:&#34;California&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:Chaetodipus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Mephitis stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
