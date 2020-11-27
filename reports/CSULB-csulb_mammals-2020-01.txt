@@ -1,0 +1,230 @@
+Report for Institution Code CSULB, Resource csulb_mammals
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 110
+Number of records retrieved in searches: 705
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 86
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 11
+	Country: Colombia ; Times: 1
+	Country: South Korea ; Times: 1
+	Country: Bolivia ; Times: 6
+	Country: Kazakhstan ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-17 ; Times: 1
+	Date: 2020-01-29 ; Times: 3
+	Date: 2020-01-02 ; Times: 4
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-05 ; Times: 1
+	Date: 2020-01-21 ; Times: 7
+	Date: 2020-01-20 ; Times: 3
+	Date: 2020-01-09 ; Times: 5
+	Date: 2020-01-22 ; Times: 3
+	Date: 2020-01-25 ; Times: 1
+	Date: 2020-01-24 ; Times: 1
+	Date: 2020-01-27 ; Times: 8
+	Date: 2020-01-26 ; Times: 2
+	Date: 2020-01-18 ; Times: 1
+	Date: 2020-01-14 ; Times: 8
+	Date: 2020-01-15 ; Times: 3
+	Date: 2020-01-30 ; Times: 32
+	Date: 2020-01-31 ; Times: 16
+	Date: 2020-01-10 ; Times: 3
+	Date: 2020-01-11 ; Times: 2
+	Date: 2020-01-13 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Globicephala macrorhynchus mappable:1" ; Times: 1
+	Query: "Pecari tajacu mappable:1" ; Times: 2
+	Query: "specificepithet:intermedius genus:Chaetodipus county:&#34;Otero&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:ornatus genus:Tremarctos" ; Times: 1
+	Query: "specificepithet:volans genus:myotis county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:corynorhinus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "Potos flavus mappable:1" ; Times: 2
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;Clark&#34; stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "genus:pipistrellus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:evotis genus:myotis county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 4
+	Query: "sorex hoyi" ; Times: 1
+	Query: "specificepithet:californicus genus:Microtus county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Galeopterus family:Cynocephalidae order:dermoptera" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 15
+	Query: "specificepithet:aztecus genus:Artibeus" ; Times: 1
+	Query: "genus:Chinchilla order:Rodentia" ; Times: 6
+	Query: "Chaetodipus californicus femoralis" ; Times: 2
+	Query: "specificepithet:californicus genus:myotis family:vespertilionidae county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "(&#34;Tremarctos ornatus&#34;)" ; Times: 1
+	Query: "&#34;Tremarctos ornatus &#34;" ; Times: 1
+	Query: "class:Mammalia locality:Idyllwild county:&#34;Riverside&#34;" ; Times: 1
+	Query: "class:Mammalia locality:Hemet county:&#34;Riverside&#34; year &gt;= 1909 year &lt;= 2007" ; Times: 1
+	Query: "Galeopterus variegatus" ; Times: 1
+	Query: "specificepithet:hispidus genus:Chaetodipus stateprovince:&#34;Coahuila&#34;" ; Times: 1
+	Query: "genus:Tadarida county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "specificepithet:leibii genus:myotis county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:Pappogeomys country:&#34;United States&#34;" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 5
+	Query: "Tremarctos ornatus" ; Times: 11
+	Query: "specificepithet:melanorhinus genus:myotis county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "Euderma Maculatum" ; Times: 1
+	Query: "genus:pipistrellus stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "Neotoma lepida" ; Times: 7
+	Query: "callithrix pygmaea" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 2
+	Query: "DERMOPTERA" ; Times: 1
+	Query: "locality:Bautista county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Saiga tatarica" ; Times: 2
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Hydropotes inermis" ; Times: 1
+	Query: "genus:lynx county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "myotis velifer grandis" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "castanea Carollia" ; Times: 2
+	Query: "Chrysocyon brachyurus mappable:1" ; Times: 4
+	Query: "genus:canis county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "euderma maculatum" ; Times: 1
+	Query: "dermoptera" ; Times: 4
+	Query: "Euderma maculatum basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "&#34;tremarctos ornatus&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 131 (out of 1584 download events in this period)
+Total number of records downloaded: 1220
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: Czechia ; Times: 1
+	Country: United States ; Times: 120
+	Country: South Korea ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 6
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-02 ; Times: 8
+	Date: 2020-01-01 ; Times: 1
+	Date: 2020-01-07 ; Times: 1
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-05 ; Times: 3
+	Date: 2020-01-21 ; Times: 3
+	Date: 2020-01-20 ; Times: 5
+	Date: 2020-01-09 ; Times: 1
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-25 ; Times: 1
+	Date: 2020-01-24 ; Times: 4
+	Date: 2020-01-27 ; Times: 2
+	Date: 2020-01-26 ; Times: 5
+	Date: 2020-01-29 ; Times: 8
+	Date: 2020-01-28 ; Times: 1
+	Date: 2020-01-30 ; Times: 29
+	Date: 2020-01-17 ; Times: 2
+	Date: 2020-01-10 ; Times: 1
+	Date: 2020-01-11 ; Times: 10
+	Date: 2020-01-12 ; Times: 14
+	Date: 2020-01-31 ; Times: 17
+	Date: 2020-01-23 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Vespertilionidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis volans" ; Times: 1
+	Query: "(DERMOPTERA)" ; Times: 3
+	Query: "Hydropotes inermis" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "corynorhinus rafinesquii" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 12
+	Query: "genus:ochotona" ; Times: 1
+	Query: "genus:Pappogeomys country:&#34;United States&#34;" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "genus:Dipodomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis ciliolabrum" ; Times: 1
+	Query: "stateprovince:&#34;Tabasco&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Onychomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;New Mexico&#34; year &gt;= 1961 year &lt;= 1970" ; Times: 1
+	Query: "(dermoptera)" ; Times: 2
+	Query: "family:Sciuridae stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "specificepithet:californicus genus:Dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:blossevillii genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "genus:Neotoma stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 2
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "DERMOPTERA" ; Times: 2
+	Query: "tamias baja" ; Times: 2
+	Query: "Myotis velifer" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "specificepithet:californicus genus:Microtus county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "order:Lagomorpha stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:borealis genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "phoca vitulina" ; Times: 1
+	Query: "family:Mustelidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Campeche&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Eumops perotis" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 2
+	Query: "genus:Chaetodipus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "Nycticeius humeralis" ; Times: 1
+	Query: "specificepithet:intermedius genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "Nyctinomops femorosaccus" ; Times: 1
+	Query: "family:Molossidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "order:dermoptera" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "Myotis californicus" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 4
+	Query: "enhydra lutris" ; Times: 1
+	Query: "genus:Mus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "genus:Reithrodontomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Baiomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Sarcophilus harrisii" ; Times: 1
+	Query: "family:Otariidae stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "corynorhinus townsendii" ; Times: 2
+	Query: "specificepithet:seminolus genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "dermoptera" ; Times: 16
+	Query: "&#34;tremarctos ornatus&#34;" ; Times: 1
+	Query: "specificepithet:lutris genus:enhydra (skin)" ; Times: 1
+	Query: "Mormoops megalophylla" ; Times: 1
+	Query: "genus:Sigmodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:ornatus genus:Tremarctos" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "lasiurus intermedius" ; Times: 1
+	Query: "(&#34;Tremarctos ornatus&#34;)" ; Times: 1
+	Query: "family:Bathyergidae" ; Times: 1
+	Query: "class:Mammalia county:&#34;Terrell&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "specificepithet:ega genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "family:Dasypodidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Choloepus didactylus" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "specificepithet:agilis genus:Dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lasiurus xanthinus" ; Times: 1
+	Query: "Dermoptera" ; Times: 6
+	Query: "family:Procyonidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:bursarius genus:Geomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "rainier" ; Times: 1
+	Query: "genus:Perognathus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "Myotis occultus" ; Times: 1
+	Query: "family:Mormoopidae stateprovince:&#34;Texas&#34;" ; Times: 1
+
+
+End of report.
