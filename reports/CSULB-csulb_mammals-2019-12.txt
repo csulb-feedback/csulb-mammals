@@ -1,0 +1,126 @@
+Report for Institution Code CSULB, Resource csulb_mammals
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 58
+Number of records retrieved in searches: 367
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 48
+	Country: Brazil ; Times: 5
+	Country: Mexico ; Times: 2
+	Country: Peru ; Times: 1
+	Country: France ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 1
+	Date: 2019-12-27 ; Times: 8
+	Date: 2019-12-20 ; Times: 1
+	Date: 2019-12-23 ; Times: 1
+	Date: 2019-12-22 ; Times: 1
+	Date: 2019-12-28 ; Times: 1
+	Date: 2019-12-18 ; Times: 2
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-10 ; Times: 1
+	Date: 2019-12-11 ; Times: 5
+	Date: 2019-12-13 ; Times: 11
+	Date: 2019-12-17 ; Times: 2
+	Date: 2019-12-30 ; Times: 1
+	Date: 2019-12-31 ; Times: 2
+	Date: 2019-12-09 ; Times: 2
+	Date: 2019-12-08 ; Times: 1
+	Date: 2019-12-07 ; Times: 2
+	Date: 2019-12-06 ; Times: 2
+	Date: 2019-12-05 ; Times: 4
+	Date: 2019-12-04 ; Times: 4
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-02 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:eremicus genus:peromyscus county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 2
+	Query: "Globicephala macrorhynchus mappable:1" ; Times: 2
+	Query: "Leptailurus serval" ; Times: 2
+	Query: "genus:EUMETOPIAS stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:bachmani genus:sylvilagus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "SERVAL" ; Times: 1
+	Query: "genus:Glaucomys county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:lepus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "vicugna vicugna" ; Times: 1
+	Query: "locality:Pinyon county:&#34;Riverside&#34;" ; Times: 2
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "genus:Tadarida county:&#34;Riverside&#34;" ; Times: 3
+	Query: "vntype:specimen specificepithet:maculatum genus:Euderma" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:albigula genus:neotoma county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 2
+	Query: "specificepithet:hispidus genus:sigmodon county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 2
+	Query: "dipodomys stephensi" ; Times: 6
+	Query: "specificepithet:lepida genus:neotoma county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:spinatus family:Heteromyidae county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "Heterocephalus glaber" ; Times: 5
+	Query: "genus:ondatra county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "perognathus alticola" ; Times: 1
+	Query: "genus:eptesicus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "genus:eumops county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 5
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 2
+	Query: "inornatus maricopa" ; Times: 1
+	Query: "addax" ; Times: 1
+	Query: "specificepithet:californicus scirpensis genus:Microtus" ; Times: 1
+	Query: "genus:Eptesicus county:&#34;Los Angeles&#34;" ; Times: 2
+	Query: "specificepithet:audubonii genus:sylvilagus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:audubonii genus:Sylvilagus county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "sciurus niger county:&#34;los angeles&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:crinitus genus:peromyscus county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 596 download events in this period)
+Total number of records downloaded: 189
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Paraguay ; Times: 1
+	Country: Mexico ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-27 ; Times: 2
+	Date: 2019-12-13 ; Times: 2
+	Date: 2019-12-28 ; Times: 1
+	Date: 2019-12-02 ; Times: 5
+	Date: 2019-12-08 ; Times: 2
+	Date: 2019-12-10 ; Times: 4
+	Date: 2019-12-05 ; Times: 1
+	Date: 2019-12-04 ; Times: 6
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Condylura" ; Times: 2
+	Query: "marmota monax" ; Times: 1
+	Query: "nyctinomops femorosaccus" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 2
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "locality:Pinyon county:&#34;Riverside&#34;" ; Times: 1
+	Query: "myotis melanorhinus" ; Times: 1
+	Query: "myotis volans" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Hidalgo&#34; country:&#34;México&#34; continent:America" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "genus:Odobenus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "Perognathus flavescens" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+
+
+End of report.
