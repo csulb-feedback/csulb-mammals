@@ -1,0 +1,181 @@
+Report for Institution Code CSULB, Resource csulb_mammals
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 110
+Number of records retrieved in searches: 609
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 56
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Mexico ; Times: 49
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-18 ; Times: 30
+	Date: 2020-03-19 ; Times: 5
+	Date: 2020-03-27 ; Times: 2
+	Date: 2020-03-31 ; Times: 1
+	Date: 2020-03-25 ; Times: 11
+	Date: 2020-03-24 ; Times: 8
+	Date: 2020-03-09 ; Times: 2
+	Date: 2020-03-22 ; Times: 2
+	Date: 2020-03-21 ; Times: 1
+	Date: 2020-03-20 ; Times: 20
+	Date: 2020-03-23 ; Times: 4
+	Date: 2020-03-15 ; Times: 1
+	Date: 2020-03-12 ; Times: 2
+	Date: 2020-03-13 ; Times: 7
+	Date: 2020-03-03 ; Times: 1
+	Date: 2020-03-02 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "Lasiurus seminolus" ; Times: 2
+	Query: "ozotoceros bezoarticus" ; Times: 1
+	Query: "peromyscus truei county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "genus:Gazella specificepithet:dorcas" ; Times: 3
+	Query: "Myotis melanorhinus" ; Times: 2
+	Query: "Myotis blythii" ; Times: 2
+	Query: "Lasiurus ega" ; Times: 2
+	Query: "Plecotus auritus" ; Times: 1
+	Query: "Nyctinomops femorosaccus" ; Times: 2
+	Query: "specificepithet:brasiliensis genus:tadarida stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "genus:taxidea county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "thomomys umbrinus county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 2
+	Query: "Corynorhinus rafinesquii" ; Times: 1
+	Query: "2 miles northwest of Lancaster" ; Times: 2
+	Query: "Dave Long" ; Times: 2
+	Query: "sigmodon ochrognathus county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Barbastella barbastellus" ; Times: 1
+	Query: "catalognumber:7319" ; Times: 1
+	Query: "4 miles southwest of Yucaipa" ; Times: 1
+	Query: "Choeronycteris mexicana" ; Times: 1
+	Query: "(11044)" ; Times: 1
+	Query: "Rhinolophus hildebrandtii" ; Times: 1
+	Query: "3.8 miles northwestof Palm Springs" ; Times: 1
+	Query: "Myotis leibii" ; Times: 1
+	Query: "genus:Procavia specificepithet:capensis" ; Times: 2
+	Query: "Sturnira parvidens" ; Times: 1
+	Query: "Thyroptera tricolor" ; Times: 1
+	Query: "Myotis nattereri" ; Times: 2
+	Query: "Ailurus fulgens" ; Times: 1
+	Query: "fountain valley" ; Times: 1
+	Query: "specificepithet:californicus genus:peromyscus stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "Rhogeesa tumida" ; Times: 1
+	Query: "Myotis capaccinii" ; Times: 2
+	Query: "Felis silvestris" ; Times: 1
+	Query: "Eptesicus serotinus" ; Times: 1
+	Query: "3 miles east of Bonsall" ; Times: 1
+	Query: "Nyctalus noctula" ; Times: 1
+	Query: "genus:Acinonyx" ; Times: 1
+	Query: "Rhinolophus ferrumequinum" ; Times: 1
+	Query: "urocyon baja california sur" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela stateprovince:&#34;California&#34;" ; Times: 6
+	Query: "genus:mustela county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 1
+	Query: "Lasiurus xanthinus" ; Times: 2
+	Query: "Rhinolophus hipposideros" ; Times: 1
+	Query: "Lasiurus intermedius" ; Times: 2
+	Query: "Myotis mystacinus" ; Times: 4
+	Query: "Rhogeessa tumida" ; Times: 1
+	Query: "genus:Mustela county:&#34;Box Elder&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "genus:Oreotragus specificepithet:oreotragus" ; Times: 2
+	Query: "Euderma maculatum" ; Times: 1
+	Query: "1/2 mile west of Independence" ; Times: 1
+	Query: "Pteropus rodricensis" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 2
+	Query: "Lavia frons" ; Times: 2
+	Query: "locality:Fullerton year &gt;= 1955 year &lt;= 1962" ; Times: 2
+	Query: "specificepithet:boylii genus:peromyscus stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "Felis nigripes" ; Times: 1
+	Query: "Dipodomys spectabilis stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "West End of June Lake" ; Times: 1
+	Query: "genus:Acinonyx specificepithet:jubatus" ; Times: 3
+	Query: "Hipposideros gigas" ; Times: 1
+	Query: "catalognumber:5085" ; Times: 1
+	Query: "2 miles west of Maricopa" ; Times: 2
+	Query: "Pteropus giganteus" ; Times: 1
+	Query: "chaetodipus chiricahua county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Artibeus hirsutus" ; Times: 1
+	Query: "locality:fountain valley year &gt;= 1958 year &lt;= 1965" ; Times: 1
+	Query: "Near Eagle Mountain Pumping Station" ; Times: 1
+	Query: "Eumops perotis" ; Times: 1
+	Query: "Felis chaus" ; Times: 1
+	Query: "mustela frenata inyoensis" ; Times: 1
+	Query: "specificepithet:panamintinus genus:tamias" ; Times: 3
+	Query: "Rhogeessa parvula" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "Dipodomys gravipes" ; Times: 1
+	Query: "reithrodontomys montanus county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 853 download events in this period)
+Total number of records downloaded: 231
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 5
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 16
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-10 ; Times: 3
+	Date: 2020-03-18 ; Times: 3
+	Date: 2020-03-26 ; Times: 2
+	Date: 2020-03-31 ; Times: 5
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-24 ; Times: 1
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-22 ; Times: 2
+	Date: 2020-03-21 ; Times: 2
+	Date: 2020-03-20 ; Times: 1
+	Date: 2020-03-05 ; Times: 1
+	Date: 2020-03-17 ; Times: 1
+	Date: 2020-03-14 ; Times: 2
+	Date: 2020-03-11 ; Times: 1
+	Date: 2020-03-12 ; Times: 2
+	Date: 2020-03-13 ; Times: 3
+	Date: 2020-03-29 ; Times: 1
+	Date: 2020-03-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "ozotoceros bezoarticus" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "&#34;*Urocitellus columbianus&#34;" ; Times: 1
+	Query: "(scandentia)" ; Times: 2
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "LEOPARDUS WIEDII" ; Times: 1
+	Query: "genus:Neotoma county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:vagrans genus:Sorex stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Dipodomys gravipes" ; Times: 1
+	Query: "order:Chiroptera county:&#34;Kern&#34;" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Pennsylvania&#34;" ; Times: 2
+	Query: "elephantulus rufescens" ; Times: 1
+	Query: "county:&#34;Amador&#34;" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Canis latrans stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 2
+	Query: "bradypus variegatus" ; Times: 3
+	Query: "specificepithet:americanus genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
