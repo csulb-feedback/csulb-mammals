@@ -1,0 +1,175 @@
+Report for Institution Code CSULB, Resource csulb_mammals
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 84
+Number of records retrieved in searches: 617
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Netherlands ; Times: 5
+	Country: Mexico ; Times: 13
+	Country: France ; Times: 1
+	Country: United States ; Times: 57
+	Country: Guatemala ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: Japan ; Times: 1
+	Country: South Korea ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-21 ; Times: 5
+	Date: 2020-09-16 ; Times: 5
+	Date: 2020-09-17 ; Times: 3
+	Date: 2020-09-25 ; Times: 1
+	Date: 2020-09-11 ; Times: 5
+	Date: 2020-09-12 ; Times: 1
+	Date: 2020-09-13 ; Times: 13
+	Date: 2020-09-29 ; Times: 3
+	Date: 2020-09-28 ; Times: 4
+	Date: 2020-09-07 ; Times: 1
+	Date: 2020-09-26 ; Times: 3
+	Date: 2020-09-19 ; Times: 4
+	Date: 2020-09-27 ; Times: 3
+	Date: 2020-09-03 ; Times: 2
+	Date: 2020-09-02 ; Times: 8
+	Date: 2020-09-22 ; Times: 9
+	Date: 2020-09-23 ; Times: 2
+	Date: 2020-09-08 ; Times: 11
+	Date: 2020-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "meriones israel" ; Times: 1
+	Query: "Gazella subgutturosa" ; Times: 5
+	Query: "lasiurus ega sinaloa" ; Times: 1
+	Query: "noctilio leporinus nayarit" ; Times: 1
+	Query: "lemmiscus curtatus inyo" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "scientificname:Peromyscus melanotis" ; Times: 1
+	Query: "specificepithet:parvus genus:perognathus class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "&#34;leopardus wiedii&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "specificepithet:bottae genus:thomomys county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:boylii county:&#34;san luis obispo&#34;" ; Times: 2
+	Query: "scientificname:Reithrodontomys fulvescens" ; Times: 3
+	Query: "lasiurus ega riverside" ; Times: 1
+	Query: "scientificname:Pongo Pygmaeus" ; Times: 1
+	Query: "sylvilagus cunicularis" ; Times: 1
+	Query: "urocitellus undulatus alaska" ; Times: 1
+	Query: "catalognumber:5339" ; Times: 1
+	Query: "scientificname:Peromyscus levipes" ; Times: 2
+	Query: "scientificname:Liomys texensis" ; Times: 1
+	Query: "sylvilagus cunicularis nayarit" ; Times: 1
+	Query: "scientificname:Chinchilla chinchilla" ; Times: 1
+	Query: "chaetodipus intermedius valley of fires" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "scientificname:Pongo pygmaeus" ; Times: 3
+	Query: "specificepithet:tereticaudus order:Rodentia county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "galictis vittata" ; Times: 2
+	Query: "scientificname:Peromyscus difficilis" ; Times: 1
+	Query: "institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:parvus genus:perognathus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "tamias obscurus" ; Times: 2
+	Query: "lemmiscus curtatus mono" ; Times: 1
+	Query: "scientificname:Panthera onca" ; Times: 1
+	Query: "11923" ; Times: 1
+	Query: "Mesocricetus auratus" ; Times: 2
+	Query: "Neotoma lepida" ; Times: 4
+	Query: "scientificname:Peromyscus boylii levipes" ; Times: 1
+	Query: "reithrodontomys montanus nebraska" ; Times: 1
+	Query: "specificepithet:leucoryx genus:Oryx" ; Times: 2
+	Query: "scientificname:Peromyscus pectoralis" ; Times: 3
+	Query: "specificepithet:megalophylla genus:Mormoops country:&#34;United States&#34;" ; Times: 2
+	Query: "scientificname:Nasua narica" ; Times: 1
+	Query: "Cricetomys gambianus vntype:specimen institutioncode:CSULB" ; Times: 2
+	Query: "institutioncode:CSULB MESOCRICETUS" ; Times: 1
+	Query: "Cricetomys" ; Times: 1
+	Query: "scientificname:Tremarctos ornatus" ; Times: 18
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 65 (out of 976 download events in this period)
+Total number of records downloaded: 1560
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 6
+	Country: Mexico ; Times: 8
+	Country: United States ; Times: 48
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 2
+	Date: 2020-09-21 ; Times: 2
+	Date: 2020-09-17 ; Times: 6
+	Date: 2020-09-10 ; Times: 6
+	Date: 2020-09-11 ; Times: 2
+	Date: 2020-09-12 ; Times: 1
+	Date: 2020-09-13 ; Times: 1
+	Date: 2020-09-29 ; Times: 3
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-18 ; Times: 9
+	Date: 2020-09-06 ; Times: 2
+	Date: 2020-09-09 ; Times: 9
+	Date: 2020-09-27 ; Times: 6
+	Date: 2020-09-03 ; Times: 1
+	Date: 2020-09-22 ; Times: 2
+	Date: 2020-09-20 ; Times: 2
+	Date: 2020-09-24 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:merriami genus:dipodomys county:&#34;san bernardino&#34; stateprovince:&#34;California&#34; year &gt;= 1800 year &lt;= 1952" ; Times: 1
+	Query: "Gazella subgutturosa" ; Times: 6
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "genus:Lynx stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "Lepus americanus" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "chiroptera Tabasco" ; Times: 2
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 2
+	Query: "sus scrofa continent:north america" ; Times: 1
+	Query: "Corynorhinus rafinesquii" ; Times: 1
+	Query: "ailurus" ; Times: 1
+	Query: "specificepithet:concolor genus:puma continent:North America" ; Times: 1
+	Query: "specificepithet:moschatus genus:ovibos" ; Times: 1
+	Query: "specificepithet:lagopus genus:vulpes" ; Times: 1
+	Query: "condylura cristata" ; Times: 1
+	Query: "specificepithet:americanus genus:ursus" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "Chiroptera Tabasco" ; Times: 2
+	Query: "specificepithet:cristata genus:Condylura" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "Myocastor coypus continent:north america" ; Times: 1
+	Query: "peromyscus eremicus" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "specificepithet:merriami genus:dipodomys county:&#34;riverside&#34; stateprovince:&#34;California&#34; year &gt;= 1800 year &lt;= 1952" ; Times: 1
+	Query: "family:emballonuridae" ; Times: 1
+	Query: "myotis californicus" ; Times: 3
+	Query: "genus:Martes specificepithet:americana*" ; Times: 2
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Tabasco" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "specificepithet:lupus genus:canis continent:North America" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes" ; Times: 2
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "specificepithet:americana genus:Martes" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Aplodontia" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 2
+	Query: "Cryptotis parva" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "specificepithet:canadensis genus:ovis" ; Times: 2
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "vntype:specimen class:mammalia stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Cricetomys gambianus" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "specificepithet:lupus genus:canis" ; Times: 1
+
+
+End of report.
