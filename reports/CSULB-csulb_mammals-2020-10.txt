@@ -1,0 +1,236 @@
+Report for Institution Code CSULB, Resource csulb_mammals
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 109
+Number of records retrieved in searches: 1151
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 61
+	Country: Bangladesh ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 5
+	Country: Guatemala ; Times: 3
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 28
+	Country: Austria ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 4
+	Date: 2020-10-22 ; Times: 2
+	Date: 2020-10-21 ; Times: 7
+	Date: 2020-10-20 ; Times: 1
+	Date: 2020-10-27 ; Times: 3
+	Date: 2020-10-26 ; Times: 1
+	Date: 2020-10-24 ; Times: 15
+	Date: 2020-10-01 ; Times: 5
+	Date: 2020-10-13 ; Times: 29
+	Date: 2020-10-03 ; Times: 3
+	Date: 2020-10-02 ; Times: 4
+	Date: 2020-10-05 ; Times: 2
+	Date: 2020-10-17 ; Times: 3
+	Date: 2020-10-14 ; Times: 3
+	Date: 2020-10-31 ; Times: 7
+	Date: 2020-10-12 ; Times: 2
+	Date: 2020-10-30 ; Times: 12
+	Date: 2020-10-28 ; Times: 2
+	Date: 2020-10-10 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:albigula genus:neotoma county:&#34;san diego&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "washington state university vntype:specimen county:&#34;Whitman&#34;" ; Times: 1
+	Query: "specificepithet:ruficaudus genus:tamias class:mammalia institutioncode:CSULB" ; Times: 1
+	Query: "Rusa timorensis" ; Times: 2
+	Query: "specificepithet:palmeri genus:tamias class:mammalia" ; Times: 1
+	Query: "class:Mammalia continent:North America year &gt;= 1800 year &lt;= 2015 institutioncode:CSULB" ; Times: 1
+	Query: "genus:neotoma county:&#34;imperial&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "Muntiacus vaginalis" ; Times: 1
+	Query: "Onychomys torridus ramona" ; Times: 2
+	Query: "scientificname:Gulo gulo" ; Times: 1
+	Query: "specificepithet:fuscipes genus:neotoma county:&#34;ventura&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:canipes genus:tamias class:mammalia" ; Times: 2
+	Query: "Chaetodipus county:&#34;jeff davis&#34; stateprovince:&#34;texas&#34; (collis OR nelsoni)" ; Times: 1
+	Query: "Axis porcinus" ; Times: 1
+	Query: "Delphinus delphis" ; Times: 1
+	Query: "specificepithet:quadrivittatus genus:tamias class:mammalia institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus county:&#34;Catron&#34;" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 1
+	Query: "specificepithet:ochrogenys genus:tamias class:mammalia institutioncode:CSULB" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "Felis silvestris" ; Times: 1
+	Query: "Sus scrofa" ; Times: 3
+	Query: "specificepithet:panamintinus genus:tamias class:mammalia institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:quadrimaculatus genus:tamias class:mammalia institutioncode:CSULB" ; Times: 1
+	Query: "scientificname:Procyon lotor" ; Times: 5
+	Query: "scientificname:Saguinus oedipus" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Wyoming&#34; basisofrecord:PreservedSpecimen distance(location,geopoint(41.37175865085932,-106.32290927947321))&lt;25204" ; Times: 1
+	Query: "Ovis aries" ; Times: 3
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "mappable:1 scientificname:Globicephala macrorhynchus" ; Times: 2
+	Query: "Aonyx cinerea" ; Times: 1
+	Query: "Axis axis" ; Times: 2
+	Query: "specificepithet:alpinus genus:tamias class:mammalia institutioncode:CSULB" ; Times: 1
+	Query: "Ammotragus lervia" ; Times: 1
+	Query: "specificepithet:albigula genus:neotoma county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 4
+	Query: "class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Equus caballus" ; Times: 1
+	Query: "specificepithet:lepida genus:neotoma county:&#34;ventura&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Xerospermophilus spilosoma canescens county:&#34;El Paso&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "vulpes macrotis arsipus" ; Times: 1
+	Query: "specificepithet:dorsalis genus:tamias class:mammalia institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:fuscipes genus:neotoma county:&#34;san diego&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:intermedius genus:chaetodipus county:&#34;brewster&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:bulleri genus:tamias class:mammalia institutioncode:CSULB" ; Times: 1
+	Query: "Xerospermophilus spilosoma canescens county:&#34;El Paso&#34; stateprovince:&#34;texas&#34; (El Paso OR McKelligan OR bliss)" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias class:mammalia institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:bulleri genus:tamias class:mammalia" ; Times: 2
+	Query: "specificepithet:fuscipes genus:neotoma county:&#34;orange&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "galictis vittata" ; Times: 3
+	Query: "specificepithet:jubatus genus:Acinonyx class:Mammalia" ; Times: 1
+	Query: "class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:alpinus genus:tamias class:mammalia" ; Times: 1
+	Query: "Panthera tigris" ; Times: 2
+	Query: "class:mammalia county:&#34;san diego&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "panthera tigris altaica" ; Times: 1
+	Query: "class:Mammalia continent:North America institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:albigula genus:neotoma county:&#34;riverside&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "scientificname:Macropus rufogriseus" ; Times: 1
+	Query: "specificepithet:fuscipes genus:neotoma county:&#34;riverside&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "nelsoni county:&#34;jeff davis&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:lepida genus:neotoma county:&#34;santa barbara&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:palmeri genus:tamias class:mammalia institutioncode:CSULB" ; Times: 1
+	Query: "class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:canipes genus:tamias class:mammalia institutioncode:CSULB" ; Times: 1
+	Query: "genus:neotoma county:&#34;santa barbara&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "merriami parvus" ; Times: 2
+	Query: "specificepithet:amoenus genus:tamias class:mammalia institutioncode:CSULB" ; Times: 1
+	Query: "Xerospermophilus spilosoma canescens stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet: oreotragus genus: Oreotragus" ; Times: 1
+	Query: "specificepithet:lepida genus:neotoma county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:fuscipes genus:neotoma county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Tragelaphus eurycerus" ; Times: 1
+	Query: "Capra hircus" ; Times: 2
+	Query: "Felis chaus" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 4
+	Query: "specificepithet:lepida genus:neotoma county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "specificepithet:fuscipes genus:neotoma county:&#34;santa barbara&#34; stateprovince:&#34;california&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 85 (out of 1521 download events in this period)
+Total number of records downloaded: 14421
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 71
+	Country: Bangladesh ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-18 ; Times: 4
+	Date: 2020-10-19 ; Times: 2
+	Date: 2020-10-08 ; Times: 1
+	Date: 2020-10-12 ; Times: 4
+	Date: 2020-10-13 ; Times: 1
+	Date: 2020-10-10 ; Times: 1
+	Date: 2020-10-30 ; Times: 2
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-14 ; Times: 16
+	Date: 2020-10-29 ; Times: 2
+	Date: 2020-10-23 ; Times: 5
+	Date: 2020-10-22 ; Times: 1
+	Date: 2020-10-21 ; Times: 4
+	Date: 2020-10-02 ; Times: 5
+	Date: 2020-10-27 ; Times: 1
+	Date: 2020-10-16 ; Times: 6
+	Date: 2020-10-03 ; Times: 1
+	Date: 2020-10-28 ; Times: 6
+	Date: 2020-10-05 ; Times: 5
+	Date: 2020-10-07 ; Times: 1
+	Date: 2020-10-31 ; Times: 10
+	Date: 2020-10-06 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Mus" ; Times: 1
+	Query: "Sorex fumeus" ; Times: 4
+	Query: "class:Mammalia country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Mammalia continent:North America year &gt;= 1800 year &lt;= 2015 institutioncode:CSULB" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "specificepithet:alpinus genus:Tamias stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "Onychomys torridus ramona" ; Times: 1
+	Query: "specificepithet:Lagopus genus:vulpes" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "vntype:specimen genus:pongo" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "specificepithet:Carolinensis genus:Sciurus" ; Times: 2
+	Query: "family:elephantidae" ; Times: 1
+	Query: "Sorex palustris" ; Times: 2
+	Query: "specificepithet:moschatus genus:ovibos" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "specificepithet:concolor family:felidae stateprovince:&#34;california&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Dasyprocta" ; Times: 1
+	Query: "class:Mammalia county:&#34;Rich&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:Volans genus:Glaucomys" ; Times: 1
+	Query: "specificepithet:albigula genus:Neotoma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;Morgan&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Wyoming&#34; basisofrecord:PreservedSpecimen distance(location,geopoint(41.37175865085932,-106.32290927947321))&lt;25204" ; Times: 1
+	Query: "Mammalia Nayarit México" ; Times: 3
+	Query: "Procyon lotor" ; Times: 1
+	Query: "specificepithet:micropus genus:Neotoma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Lepus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "class:Mammalia county:&#34;Weber&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;california&#34; country:&#34;United States&#34; year &gt;= 1950" ; Times: 1
+	Query: "Blarina carolinensis" ; Times: 2
+	Query: "Otospermophilus beecheyi" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "specificepithet:oryx genus:Taurotragus" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 2
+	Query: "specificepithet:spekii genus:tragelaphus" ; Times: 1
+	Query: "Myotis" ; Times: 1
+	Query: "order:Rodentia basisofrecord:PreservedSpecimen distance(location,geopoint(41.09733869762342,-106.27933186447625))&lt;16134" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "vntype:specimen specificepithet:afer genus:Orycteropus" ; Times: 1
+	Query: "Gulo gulo" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx stateprovince:&#34;california&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "panthera tigris tigris" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "order:pholidota" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "Cryptotis parva" ; Times: 2
+	Query: "specificepithet:melampus genus:aepyceros" ; Times: 1
+	Query: "specificepithet:ellipsiprymnus genus:kobus" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Sorex hoyi" ; Times: 2
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "specificepithet:oreotragus genus:oreotragus" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus county:&#34;Catron&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;Rich&#34; stateprovince:&#34;Utah&#34; year &lt;= 1990" ; Times: 1
+	Query: "class:Mammalia county:&#34;Cache&#34; stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "specificepithet:lupus genus:canis" ; Times: 3
+	Query: "specificepithet:lagopus genus:vulpes" ; Times: 1
+	Query: "specificepithet:marsupialis genus:antidorcas" ; Times: 1
+
+
+End of report.
