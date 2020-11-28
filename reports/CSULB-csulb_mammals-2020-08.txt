@@ -1,0 +1,199 @@
+Report for Institution Code CSULB, Resource csulb_mammals
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 92
+Number of records retrieved in searches: 796
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 64
+	Country: United Kingdom ; Times: 20
+	Country: Italy ; Times: 1
+	Country: Peru ; Times: 5
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-18 ; Times: 2
+	Date: 2020-08-06 ; Times: 4
+	Date: 2020-08-19 ; Times: 3
+	Date: 2020-08-22 ; Times: 2
+	Date: 2020-08-07 ; Times: 5
+	Date: 2020-08-17 ; Times: 2
+	Date: 2020-08-01 ; Times: 1
+	Date: 2020-08-02 ; Times: 4
+	Date: 2020-08-04 ; Times: 4
+	Date: 2020-08-05 ; Times: 19
+	Date: 2020-08-28 ; Times: 4
+	Date: 2020-08-10 ; Times: 4
+	Date: 2020-08-08 ; Times: 6
+	Date: 2020-08-13 ; Times: 1
+	Date: 2020-08-24 ; Times: 1
+	Date: 2020-08-25 ; Times: 1
+	Date: 2020-08-31 ; Times: 2
+	Date: 2020-08-20 ; Times: 2
+	Date: 2020-08-21 ; Times: 25
+
+List of queries that retrieved data from the resource: 
+	Query: "family:heteromyidae order:Rodentia county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "class:Mammalia institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:formosus genus:chAETODIPUS county:&#34;kern&#34; stateprovince:&#34;california&#34;" ; Times: 3
+	Query: "genus:lynx county:&#34;orange&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "Arctictis binturong" ; Times: 1
+	Query: "Muntiacus vaginalis" ; Times: 1
+	Query: "8243 CSULB" ; Times: 2
+	Query: "genus:urocyon county:&#34;orange&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Tamias specificepithet:merriami stateprovince:california" ; Times: 2
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes year&gt;=1900 year&lt;=1940" ; Times: 1
+	Query: "genus:Tamias specificepithet:merriami mappable:1 stateprovince:california" ; Times: 1
+	Query: "Trachypithecus francoisi" ; Times: 1
+	Query: "Apodemus uralensis" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "Felis nigripes" ; Times: 1
+	Query: "Muntiacus reevesi" ; Times: 1
+	Query: "CSULB and Rodentia" ; Times: 1
+	Query: "specificepithet:cephalophus genus:Elaphodus" ; Times: 1
+	Query: "specificepithet:jubatus genus:Acinonyx" ; Times: 2
+	Query: "specificepithet:californicus genus:chAETODIPUS county:&#34;kern&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Callithrix pygmaea" ; Times: 19
+	Query: "specificepithet:californicus genus:chAETODIPUS county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "Hylobates lar" ; Times: 1
+	Query: "specificepithet:townsendii genus:Lepus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "Pongo pygmaeus" ; Times: 1
+	Query: "genus:peromyscus locality:san clemente" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "Leptailurus serval" ; Times: 1
+	Query: "mustela nigripes" ; Times: 1
+	Query: "specificepithet:inornatus genus:perognathus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "order:Rodentia institutioncode:CSULB" ; Times: 1
+	Query: "Sciurus colliaei" ; Times: 1
+	Query: "specificepithet:longimembris genus:perognathus class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "Hylobates pileatus" ; Times: 1
+	Query: "specificepithet:formosus genus:chAETODIPUS county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "Apodemus mystacinus" ; Times: 1
+	Query: "specificepithet:townsendii genus:Lepus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "institutioncode:CSULB" ; Times: 2
+	Query: "Capra hircus" ; Times: 1
+	Query: "genus:peromyscus locality:anacapa" ; Times: 3
+	Query: "specificepithet:alticola genus:perognathus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "order:Chiroptera institutioncode:CSULB" ; Times: 1
+	Query: "genus:Notiosorex country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Cercopithecus neglectus" ; Times: 1
+	Query: "genus:glaucomys county:&#34;san bernardino&#34;" ; Times: 1
+	Query: "specificepithet:truei genus:peromyscus stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "genus:Marmota stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "specificepithet:townsendii genus:Lepus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "euderma" ; Times: 1
+	Query: "Mesocricetus auratus" ; Times: 1
+	Query: "11295 CSULB" ; Times: 2
+	Query: "specificepithet:longimembris genus:perognathus class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34;" ; Times: 3
+	Query: "genus:Marmota stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Felis chaus" ; Times: 1
+	Query: "genus:glaucomys county:&#34;San bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Cercopithecus wolfi" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "Lepus townsendii" ; Times: 1
+	Query: "Felis silvestris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 70 (out of 756 download events in this period)
+Total number of records downloaded: 23927
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 63
+	Country: Ecuador ; Times: 2
+	Country: Burkina Faso ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-08 ; Times: 14
+	Date: 2020-08-28 ; Times: 2
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-10 ; Times: 8
+	Date: 2020-08-17 ; Times: 1
+	Date: 2020-08-16 ; Times: 1
+	Date: 2020-08-04 ; Times: 2
+	Date: 2020-08-29 ; Times: 1
+	Date: 2020-08-06 ; Times: 3
+	Date: 2020-08-07 ; Times: 7
+	Date: 2020-08-26 ; Times: 8
+	Date: 2020-08-13 ; Times: 2
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-25 ; Times: 2
+	Date: 2020-08-22 ; Times: 1
+	Date: 2020-08-24 ; Times: 8
+	Date: 2020-08-11 ; Times: 1
+	Date: 2020-08-21 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "family:heteromyidae order:Rodentia county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "class:Mammalia institutioncode:CSULB" ; Times: 1
+	Query: "vntype:specimen class:Mammalia stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 1
+	Query: "specificepithet:catta genus:Lemur" ; Times: 1
+	Query: "family:Geomyidae stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 2
+	Query: "order:Rodentia county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 2
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "Peromyscus gossypinus" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 2
+	Query: "Dipodomys merriami quintinensis" ; Times: 2
+	Query: "specificepithet:californicus genus:Lepus" ; Times: 1
+	Query: "specificepithet:lateralis genus:Callospermophilus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "genus:Mustela stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:Callospermophilus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:Callospermophilus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:Callospermophilus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "family:Geomyidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Ochotona stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "genus:Mustela stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "specificepithet:townsendii genus:Lepus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "genus:peromyscus locality:anacapa" ; Times: 1
+	Query: "genus:Ochotona stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:peromyscus locality:san clemente" ; Times: 1
+	Query: "specificepithet:cinereus genus:sorex" ; Times: 2
+	Query: "Sorex cinereus" ; Times: 1
+	Query: "Sylvilagus aquaticus" ; Times: 1
+	Query: "order:Rodentia institutioncode:CSULB" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "myotis leibii" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:arctos horribilis genus:Ursus" ; Times: 1
+	Query: "specificepithet:tigris genus:Panthera" ; Times: 2
+	Query: "Ochotona" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "genus:Marmota stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Onychomys stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "genus:Pongo" ; Times: 1
+	Query: "order:Chiroptera institutioncode:CSULB" ; Times: 1
+	Query: "genus:Mustela stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Marmota stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "specificepithet:townsendii genus:Lepus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:pygmaeus genus:pongo" ; Times: 2
+	Query: "genus:Mustela stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:Callospermophilus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Puno&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:townsendii genus:Lepus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "genus:glaucomys county:&#34;San bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:Callospermophilus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "family:Geomyidae stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Hidalgo&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Marmota stateprovince:&#34;Utah&#34;" ; Times: 1
+
+
+End of report.
