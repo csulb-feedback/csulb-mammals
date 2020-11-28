@@ -1,0 +1,165 @@
+Report for Institution Code CSULB, Resource csulb_mammals
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 46
+Number of records retrieved in searches: 259
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 35
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 4
+	Date: 2020-07-08 ; Times: 1
+	Date: 2020-07-21 ; Times: 1
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-24 ; Times: 2
+	Date: 2020-07-01 ; Times: 1
+	Date: 2020-07-13 ; Times: 6
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-02 ; Times: 3
+	Date: 2020-07-16 ; Times: 3
+	Date: 2020-07-17 ; Times: 3
+	Date: 2020-07-07 ; Times: 1
+	Date: 2020-07-31 ; Times: 2
+	Date: 2020-07-22 ; Times: 1
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-14 ; Times: 5
+	Date: 2020-07-06 ; Times: 8
+	Date: 2020-07-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Globicephala macrorhynchus mappable:1" ; Times: 1
+	Query: "specificepithet:beecheyi genus:otospermophilus county:&#34;riverside&#34;" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM)" ; Times: 1
+	Query: "Arctictis binturong" ; Times: 1
+	Query: "genus:Antilocapra" ; Times: 3
+	Query: "genus:Peromyscus locality:Willow creek stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 4
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU)" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM)" ; Times: 1
+	Query: "Tlacuatzin canescens" ; Times: 1
+	Query: "c order:chiroptera stateprovince:&#34;Sonora&#34;" ; Times: 1
+	Query: "lontra canadensis pacifica" ; Times: 1
+	Query: "locality:Tinemaha county:&#34;Inyo&#34;" ; Times: 1
+	Query: "Myrmecophaga" ; Times: 1
+	Query: "genus:Ursus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 2
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "Loxodonta basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU)" ; Times: 1
+	Query: "specificepithet:melanorhinus genus:myotis county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "Dipodomys nitratoides" ; Times: 1
+	Query: "galictis vittata" ; Times: 1
+	Query: "order:Rodentia class:Mammalia county:&#34;Clinton&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 2
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM NOT UMMZ)" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM)" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 3
+	Query: "specificepithet:boylii county:&#34;Fresno&#34;" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans)" ; Times: 1
+	Query: "genus:Dipodomys county:&#34;ventura&#34;" ; Times: 4
+	Query: "Speothos venaticus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 56 (out of 940 download events in this period)
+Total number of records downloaded: 5233
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 13
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: India ; Times: 1
+	Country: United States ; Times: 29
+	Country: Colombia ; Times: 7
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 3
+	Date: 2020-07-08 ; Times: 1
+	Date: 2020-07-18 ; Times: 2
+	Date: 2020-07-19 ; Times: 2
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-22 ; Times: 4
+	Date: 2020-07-30 ; Times: 2
+	Date: 2020-07-13 ; Times: 6
+	Date: 2020-07-03 ; Times: 2
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-16 ; Times: 8
+	Date: 2020-07-21 ; Times: 5
+	Date: 2020-07-14 ; Times: 1
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-06 ; Times: 5
+	Date: 2020-07-23 ; Times: 4
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-15 ; Times: 2
+	Date: 2020-07-28 ; Times: 4
+	Date: 2020-07-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Lynx distance(location,geopoint(38.15709787129506,-112.20703125))&lt;2365818.802354772" ; Times: 1
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "order:Rodentia class:Mammalia county:&#34;Clinton&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "nasua nasua" ; Times: 2
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "Stenella attenuata" ; Times: 1
+	Query: "class:Mammalia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Perognathus longimembris" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "class:Mammalia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "c order:chiroptera stateprovince:&#34;Sonora&#34;" ; Times: 1
+	Query: "genus:Dipodomys county:&#34;ventura&#34;" ; Times: 1
+	Query: "artibeus aztecus" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "specificepithet:heermanni genus:dipodomys" ; Times: 1
+	Query: "stenella attenuata" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "specificepithet:pinetorum genus:Microtus" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "dipodomys merriami parvus" ; Times: 1
+	Query: "specificepithet:ingens genus:Dipodomys" ; Times: 1
+	Query: "genus:Puma" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "galictis vittata" ; Times: 1
+	Query: "callosciurus" ; Times: 1
+	Query: "Tupaia belangeri" ; Times: 1
+	Query: "cetacea" ; Times: 1
+	Query: "specificepithet:nitratoides genus:dipodomys" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM NOT UMMZ)" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "order:rodentia county:&#34;clinton&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "family:felidae" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Nasua nasua" ; Times: 2
+	Query: "genus:Lasionycteris continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Stenella longirostris" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "specificepithet:nelsoni genus:Chaetodipus" ; Times: 2
+	Query: "potos flavus" ; Times: 2
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 1
+	Query: "Speothos venaticus" ; Times: 1
+	Query: "Peromyscus gossypinus vntype:specimen" ; Times: 1
+
+
+End of report.
