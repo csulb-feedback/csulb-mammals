@@ -1,0 +1,158 @@
+Report for Institution Code CSULB, Resource csulb_mammals
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 94
+Number of records retrieved in searches: 439
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 41
+	Country: United Kingdom ; Times: 26
+	Country: Colombia ; Times: 5
+	Country: Spain ; Times: 20
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-25 ; Times: 2
+	Date: 2020-12-24 ; Times: 1
+	Date: 2020-12-26 ; Times: 4
+	Date: 2020-12-21 ; Times: 2
+	Date: 2020-12-30 ; Times: 6
+	Date: 2020-12-23 ; Times: 2
+	Date: 2020-12-22 ; Times: 2
+	Date: 2020-12-03 ; Times: 1
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-06 ; Times: 2
+	Date: 2020-12-01 ; Times: 2
+	Date: 2020-12-09 ; Times: 7
+	Date: 2020-12-08 ; Times: 1
+	Date: 2020-12-07 ; Times: 4
+	Date: 2020-12-11 ; Times: 9
+	Date: 2020-12-05 ; Times: 2
+	Date: 2020-12-04 ; Times: 12
+	Date: 2020-12-14 ; Times: 22
+	Date: 2020-12-02 ; Times: 6
+	Date: 2020-12-16 ; Times: 1
+	Date: 2020-12-20 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Axis porcinus" ; Times: 1
+	Query: "Rusa timorensis" ; Times: 2
+	Query: "Ovis aries" ; Times: 1
+	Query: "Muntiacus vaginalis" ; Times: 1
+	Query: "Apodemus mystacinus" ; Times: 1
+	Query: "Dasyprocta leporina" ; Times: 1
+	Query: "Hydropotes inermis" ; Times: 1
+	Query: "Muntiacus muntjac" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 4
+	Query: "Apodemus uralensis" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;minnesota&#34;" ; Times: 2
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "specificepithet:boylii genus:peromyscus county:&#34;kern&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Felis nigripes" ; Times: 3
+	Query: "Muntiacus reevesi" ; Times: 1
+	Query: "scientificname:Procyon lotor" ; Times: 20
+	Query: "scientificname:Marmota monax stateprovince:new york" ; Times: 2
+	Query: "scientificname:Tamias striatus stateprovince:new york" ; Times: 2
+	Query: "Galictis vittata" ; Times: 1
+	Query: "Axis axis" ; Times: 1
+	Query: "genus:didelphis county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:CSULB" ; Times: 1
+	Query: "dipodomys merriami parvus" ; Times: 2
+	Query: "genus:rattus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "Equus caballus" ; Times: 1
+	Query: "specificepithet:truei genus:peromyscus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:eremicus genus:peromyscus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "Myotis daubentoni" ; Times: 1
+	Query: "scientificname:Condylura cristata stateprovince:new york" ; Times: 2
+	Query: "genus:Dipodomys ordii stateprovince:&#34;Kansas&#34; year &gt;= 1900 year &lt;= 1940" ; Times: 1
+	Query: "Sciurus colliaei" ; Times: 1
+	Query: "galictis vittata" ; Times: 1
+	Query: "specificepithet:astutus genus:bassariscus stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "scientificname:Panthera onca" ; Times: 4
+	Query: "genus:reithrodontomys county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "scientificname:Microtus pennsylvanicus stateprovince:new york" ; Times: 2
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:CSULB" ; Times: 3
+	Query: "specificepithet:crinitus genus:peromyscus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "scientificname:Chrysocyon brachyurus" ; Times: 1
+	Query: "scientificname:Peromyscus maniculatus stateprovince:new york" ; Times: 4
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "specificepithet:californicus genus:lepus county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "Moschus moschiferus" ; Times: 2
+	Query: "Bison bonasus" ; Times: 2
+	Query: "Felis chaus" ; Times: 3
+	Query: "11296" ; Times: 1
+	Query: "genus:oryctolagus county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "Oreotragus oreotragus schillingsi" ; Times: 1
+	Query: "Felis silvestris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 705 download events in this period)
+Total number of records downloaded: 2708
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 4
+	Country: United States ; Times: 14
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-24 ; Times: 1
+	Date: 2020-12-21 ; Times: 1
+	Date: 2020-12-30 ; Times: 1
+	Date: 2020-12-23 ; Times: 1
+	Date: 2020-12-28 ; Times: 1
+	Date: 2020-12-02 ; Times: 5
+	Date: 2020-12-09 ; Times: 2
+	Date: 2020-12-08 ; Times: 3
+	Date: 2020-12-07 ; Times: 4
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-04 ; Times: 2
+	Date: 2020-12-03 ; Times: 6
+	Date: 2020-12-15 ; Times: 1
+	Date: 2020-12-16 ; Times: 1
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vulpes lagopus" ; Times: 1
+	Query: "family:sciuridae" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "class:Mammalia country:Brazil" ; Times: 2
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 2
+	Query: "Galictis vittata" ; Times: 1
+	Query: "genus:Ondatra stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "genus:Lepus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:CSULB" ; Times: 1
+	Query: "dipodomys merriami parvus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "specificepithet:truei genus:peromyscus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CSULB" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "genus:Martes specificepithet:americana*" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "galictis vittata" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Sonora&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:CSULB" ; Times: 1
+	Query: "genus:Rangifer tarandus" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "Odobenus rosmarus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Chihuahua&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "family:Felidae year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "Oreotragus oreotragus schillingsi" ; Times: 1
+
+
+End of report.
